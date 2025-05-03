@@ -1,47 +1,47 @@
 
 
 <img align="center" height="auto"
-src="https://files.catbox.moe/bqs70b.jpg?">
+src="https://files.catbox.moe/3l5hpb.jpg?">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=J+I+N+W+O+O+▇)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=P+R+I+N+C+E+S+S+L+U+N+A+M+D+▇)](https://git.io/typing-svg)
 <br>
 
    </p>
 <p align="center">
-<a href="https://github.com/kingmalvn"><img title="Author" src="https://img.shields.io/badge/Malvin King-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@malvintech2"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/263780934873"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/lhbotssystem"><img title="Author" src="https://img.shields.io/badge/Lord Habaek-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@botmastermindofficial"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/263712473551"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/> 
 
  <p align="center">
-<a href="https://github.com/kingmalvn/followers"><img title="Followers" src="https://img.shields.io/github/followers/kingmalvn?color=purple&style=flat-square"></a>
-<a href="https://github.com/kingmalvn/JINWOO-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/kingmalvn/JINWOO-BOT?color=blue&style=flat-square"></a>
-<a href="https://github.com/kingmalvn/JINWOO-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kingmalvn/JINWOO-BOT?color=blue&style=flat-square"></a>
-<a href="https://github.com/kingmalvn/JINWOO-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kingmalvn/JINWOO-BOT?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/kingmalvn/JINWOO-BOT/"><img title="Size" src="https://img.shields.io/github/repo-size/kingmalvn/JINWOO-BOT?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkingmalvn%2FJINWOO-BOT&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/kingmalvn/JINWOO-BOT/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;</a>
-<p align="center"><img src="https://profile-counter.glitch.me/{JINWOO-BOT}/count.svg" alt="kingmalvn :: Visitor's Count" old_src="https://profile-counter.glitch.me/{kingmalvn}/count.svg" /></p>
+<a href="https://github.com/lhbotssystem/followers"><img title="Followers" src="https://img.shields.io/github/followers/lhbotssystem?color=purple&style=flat-square"></a>
+<a href="https://github.com/lhbotssystem/PRINCESS-LUNA-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/lhbotssystem/PRINCESS-LUNA-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/lhbotssystem/PRINCESS-LUNA-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/lhbotssystem/PRINCESS-LUNA-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/lhbotssystem/PRINCESS-LUNA-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/lhbotssystem/PRINCESS-LUNA-MD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/lhbotssystem/PRINCESS-LUNA-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/lhbotssystem/PRINCESS-LUNA-MD?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flhbotssystem%2FPRINCESS-LUNA-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/lhbotssystem/PRINCESS-LUNA-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;</a>
+<p align="center"><img src="https://profile-counter.glitch.me/{PRINCESS-LUNA-MD}/count.svg" alt="lhbotssystem :: Visitor's Count" old_src="https://profile-counter.glitch.me/{lhbotssystem}/count.svg" /></p>
 <p align="center">
-<a href="https://github.com/kingmalvn/JINWOO"BOT"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=JINWOO-BOT&label=VIEWS&style=flat-square&color=blue" />
+<a href="https://github.com/lhbotssystem/PRINCESS-LUNA-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=LUNA-BOT&label=VIEWS&style=flat-square&color=blue" />
 </a>
 <p align="center">
-  <a href="https://github.com/kingmalvn/JINWOO-BOT"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/lhbotssystem/PRINCESS-LUNA-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
 
 <p align='center'>
     </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## 🛠️ `JINBOT INSTALATION`
+## 🛠️ `LUNABOT INSTALATION`
 
 
 
 1. Fork and star this repo first
 
-Click the button below to fork the JIN Bot repository to your GitHub account:
+Click the button below to fork the Luna Bot repository to your GitHub account:
 
   <br>
     <p align="left">
-  <a href="https://github.com/kingmalvn/Jinwoo-bot/fork"><img title="JINWOO-V2" src="https://img.shields.io/badge/FORK-JINWOO-V2h?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/lhbotssystem/princess-luna-md/fork"><img title="LUNA-BOT" src="https://img.shields.io/badge/FORK-LUNA-BOTh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -57,13 +57,13 @@ Click the button below to fork the JIN Bot repository to your GitHub account:
 
 ## `DEPLOYMENTS`
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fkingmalvn%2FJinwoo-bot) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Flhbotssystem%2Fprincess-luna-md) 
 
 💯 safe
     <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 
-[![Deploy on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://repl.it/github/kingmalvn/JINWOO-BOT)
+[![Deploy on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://repl.it/github/lhbotssystem/PRINCESS-LUNA-MD)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -82,7 +82,7 @@ Click the button below to fork the JIN Bot repository to your GitHub account:
 * Then choose create new app
 * Enter your app name and Create.
 * Connect with your GitHub account.
-* Search JINWOO-BOT, and connect.
+* Search PRINCESS-LUNA-MD, and connect.
 * Press deploy and wait for a few minutes.
 * Enjoy.
 </details>
@@ -95,7 +95,7 @@ Click the button below to fork the JIN Bot repository to your GitHub account:
 <br>
 > Click below to download the bot file :
 <p align="left">
-<a href="https://github.com/kingmalvn/Jinwoo-bot/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-green" alt="Rainhost Files" width="150"></a>
+<a href="https://github.com/lhbotssystem/Princess-luna-md/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-green" alt="Rainhost Files" width="150"></a>
 <br>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
   
@@ -109,7 +109,7 @@ Click the button below to fork the JIN Bot repository to your GitHub account:
   
 > Click below to deploy on Bot-Hosting :
 <p align="left">
-  <a href="https://bot-hosting.net/?aff=1231885228566646795">
+  <a href="https://dash.altare.pro/join/9DYKAHd1VmxrkjQq">
     <img src="https://img.shields.io/badge/Deploy%20to%20Bot-hosting-9772a6?style=for-the-badge&logo=bothosting&logoColor=white"/>
   </a>
 </p>
@@ -152,8 +152,8 @@ Click the button below to fork the JIN Bot repository to your GitHub account:
   
 ## `CLONE REPO & INSTALLATION DEPENDENCIES`
 ```bash
-git clone https://github.com/<your gitHub Username>/Jinwoo-bot.git
-cd Jinwoo-bot 
+git clone https://github.com/<your gitHub Username>/PRINCESS-LUNA-MD.git
+cd PRINCESS-LUNA-MD 
 npm start
 ```
 
@@ -168,8 +168,8 @@ sudo apt-get install -y nodejs
 sudo apt-get install -y ffmpeg
 sudo apt-get install -y wget
 sudo apt-get install -y imagemagick
-git clone https://github.com/<your-gitHub-Username>/Jinwoo-bot
-cd Jinwoo-bot
+git clone https://github.com/<your-gitHub-Username>/PRINCESS-LUNA-MD
+cd PRINCESS-LUNA-MD
 npm install
 npm start
 ```
