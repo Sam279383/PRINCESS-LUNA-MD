@@ -1,0 +1,46 @@
+{
+  "chats": {
+    "120363415630467765@g.us": {
+      "antibot": false,
+      "antilink": false,
+      "badword": false,
+      "antilinkgc": false,
+      "antilinkkick": true,
+      "badwordkick": false,
+      "antilinkgckick": false
+    },
+    "120363372230280282@g.us": {
+      "antibot": false,
+      "antilink": false,
+      "badword": false,
+      "antilinkgc": false,
+      "antilinkkick": false,
+      "badwordkick": false,
+      "antilinkgckick": false
+    }
+  },
+  "settings": {
+    "prefix": ".",
+    "mode": "public",
+    "autobio": false,
+    "anticall": false,
+    "chatbot": false,
+    "autotype": false,
+    "autoread": false,
+    "welcome": false,
+    "antiedit": "private",
+    "menustyle": "4",
+    "statusemoji": "❤️",
+    "autoreact": false,
+    "autorecord": false,
+    "antidelete": "private",
+    "alwaysonline": true,
+    "autoviewstatus": true,
+    "autoreactstatus": true,
+    "autorecordtype": false
+  },
+  "blacklist": {
+    "blacklisted_numbers": []
+  },
+  "sudo": []
+}

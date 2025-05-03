@@ -1,0 +1,957 @@
+{
+  "120363415630467765@g.us": {
+    "35CD2F73288B786F5552A8342BEEBED1": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".runtime",
+      "timestamp": 1742655816
+    },
+    "3EB0DDC99533B6E70E143E": {
+      "sender": "120363415630467765@g.us",
+      "text": "*⏰ 1 day, 14 hours, 43 minutes, 27 seconds*",
+      "timestamp": {
+        "low": 1742655818,
+        "high": 0,
+        "unsigned": true
+      }
+    },
+    "5AE210F7376749C38EA0D8C1F647A5CB": {
+      "sender": "2348140984100@s.whatsapp.net",
+      "text": "Hey bro",
+      "timestamp": 1742655827
+    },
+    "3EB05D562E0DED6C968575": {
+      "sender": "120363415630467765@g.us",
+      "text": "*⏰ 1 day, 16 hours, 4 minutes, 4 seconds*",
+      "timestamp": {
+        "low": 1742660656,
+        "high": 0,
+        "unsigned": true
+      }
+    },
+    "E9340724554B15B1F54AD5ABE01C9411": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".menu",
+      "timestamp": 1742660970
+    },
+    "3EB094BB673EFC5B029389": {
+      "sender": "120363415630467765@g.us",
+      "text": "ʟᴏᴀᴅɪɴɢ ʜᴀʙᴀᴇᴋ-V1.0.0...",
+      "timestamp": {
+        "low": 1742660972,
+        "high": 0,
+        "unsigned": true
+      }
+    },
+    "3EB0F2965439C556F73397": {
+      "sender": "120363415630467765@g.us",
+      "text": "╭┉╾♰ ◈ *HABAEK-V1.0.0* ♔‌\n┊ *ᴏᴡɴᴇʀ* : ♰♔‌ʟᴏʀᴅ ʜᴀʙᴀᴇᴋ♔‌♰\n┇ *ᴘʀᴇғɪx* : [ . ]\n┇ *ʜᴏsᴛ* : linux\n┇ *ᴘʟᴜɢɪɴs* : 261\n┇ *ᴍᴏᴅᴇ* : Public\n┇ *ᴠᴇʀsɪᴏɴ* : 1.0.0\n┇ *sᴘᴇᴇᴅ* : 432.2653 ms\n┇ *ᴜsᴀɢᴇ* : 59 MB of 126 GB\n┇ *ʀᴀᴍ:* [█████████░] 93%\n╰┉┉┉♰ \n‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎\n╭┉╾♰ ♔‌  *AI MENU* ◈\n┊☠️ habaek\n┊☠️ dalle\n┊☠️ habaek\n┊☠️ generate\n┊☠️ dbrx\n┊☠️ deepseek\n┊☠️ deepseekllm\n┊☠️ doppleai\n┊☠️ gpt\n┊☠️ gpt2\n┊☠️ imagen\n┊☠️ imagine\n┊☠️ letterai\n┊☠️ llama\n┊☠️ metaai\n┊☠️ mistral\n┊☠️ photoai\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *AUDIO MENU* ◈\n┊☠️ bass\n┊☠️ blown\n┊☠️ deep\n┊☠️ earrape\n┊☠️ reverse\n┊☠️ robot\n┊☠️ volaudio\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *DOWNLOAD MENU* ◈\n┊☠️ apk\n┊☠️ download\n┊☠️ facebook\n┊☠️ gdrive\n┊☠️ gitclone\n┊☠️ image\n┊☠️ instagram\n┊☠️ itunes\n┊☠️ mediafire\n┊☠️ pinterest\n┊☠️ play\n┊☠️ playdoc\n┊☠️ ringtone\n┊☠️ savestatus\n┊☠️ tiktok\n┊☠️ tiktokaudio\n┊☠️ video\n┊☠️ videodoc\n┊☠️ videodoc\n┊☠️ xvideos\n┊☠️ ytmp3\n┊☠️ ytmp3doc\n┊☠️ ytmp4\n┊☠️ ytmp4doc\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *EPHOTO360 MENU* ◈\n┊☠️ 1917style\n┊☠️ advancedglow\n┊☠️ blackpinklogo\n┊☠️ blackpinkstyle\n┊☠️ cartoonstyle\n┊☠️ deadpool\n┊☠️ deletingtext\n┊☠️ dragonball\n┊☠️ effectclouds\n┊☠️ flag3dtext\n┊☠️ flagtext\n┊☠️ freecreate\n┊☠️ galaxystyle\n┊☠️ galaxywallpaper\n┊☠️ glitchtext\n┊☠️ glowingtext\n┊☠️ gradienttext\n┊☠️ graffiti\n┊☠️ incandescent\n┊☠️ lighteffects\n┊☠️ logomaker\n┊☠️ luxurygold\n┊☠️ makingneon\n┊☠️ matrix\n┊☠️ multicoloredneon\n┊☠️ neonglitch\n┊☠️ papercutstyle\n┊☠️ pixelglitch\n┊☠️ royaltext\n┊☠️ sand\n┊☠️ summerbeach\n┊☠️ topography\n┊☠️ typography\n┊☠️ watercolortext\n┊☠️ writetext\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *FUN MENU* ◈\n┊☠️ dare\n┊☠️ fact\n┊☠️ jokes\n┊☠️ memes\n┊☠️ quotes\n┊☠️ trivia\n┊☠️ truth\n┊☠️ truthdetector\n┊☠️ xxqc\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *GROUP MENU* ◈\n┊☠️ add\n┊☠️ antibadword\n┊☠️ antibot\n┊☠️ antilink\n┊☠️ antilinkgc\n┊☠️ approveall\n┊☠️ close\n┊☠️ closetime\n┊☠️ delppgroup\n┊☠️ demote\n┊☠️ disapproveall\n┊☠️ editsettings\n┊☠️ link\n┊☠️ hidetag\n┊☠️ invite\n┊☠️ kick\n┊☠️ listonline\n┊☠️ listrequests\n┊☠️ mediatag\n┊☠️ open\n┊☠️ opentime\n┊☠️ poll\n┊☠️ promote\n┊☠️ resetlink\n┊☠️ setdesc\n┊☠️ setgroupname\n┊☠️ setppgroup\n┊☠️ tagadmin\n┊☠️ tagall\n┊☠️ totalmembers\n┊☠️ userid\n┊☠️ vcf\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *HEROKU MENU* ◈\n┊☠️ addvar\n┊☠️ delvar\n┊☠️ getvar\n┊☠️ setbotname\n┊☠️ setname\n┊☠️ setownernumber\n┊☠️ setvar\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *IMAGE MENU* ◈\n┊☠️ remini\n┊☠️ wallpaper\n┊☠️ wikimedia\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *OTHER MENU* ◈\n┊☠️ botstatus\n┊☠️ pair\n┊☠️ ping\n┊☠️ runtime\n┊☠️ repo\n┊☠️ time\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *OWNER MENU* ◈\n┊☠️ block\n┊☠️ delete\n┊☠️ deljunk\n┊☠️ disk\n┊☠️ dlvo\n┊☠️ gcaddprivacy\n┊☠️ getsession\n┊☠️ groupid\n┊☠️ hostip\n┊☠️ join\n┊☠️ lastseen\n┊☠️ leave\n┊☠️ listbadword\n┊☠️ listignorelist\n┊☠️ listsudo\n┊☠️ modestatus\n┊☠️ online\n┊☠️ owner\n┊☠️ ppprivacy\n┊☠️ react\n┊☠️ readreceipts\n┊☠️ reportbug\n┊☠️ request\n┊☠️ restart\n┊☠️ setbio\n┊☠️ setprofilepic\n┊☠️ toviewonce\n┊☠️ unblock\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *REACTION MENU* ◈\n┊☠️ 8ball\n┊☠️ avatar\n┊☠️ awoo\n┊☠️ bite\n┊☠️ blush\n┊☠️ bonk\n┊☠️ bully\n┊☠️ cringe\n┊☠️ cry\n┊☠️ cuddle\n┊☠️ dance\n┊☠️ feed\n┊☠️ foxgirl\n┊☠️ gecg\n┊☠️ glomp\n┊☠️ goose\n┊☠️ handhold\n┊☠️ happy\n┊☠️ highfive\n┊☠️ hug\n┊☠️ kill\n┊☠️ kiss\n┊☠️ lick\n┊☠️ lizard\n┊☠️ meow\n┊☠️ nom\n┊☠️ pat\n┊☠️ poke\n┊☠️ shinobu\n┊☠️ slap\n┊☠️ smile\n┊☠️ smug\n┊☠️ spank\n┊☠️ tickle\n┊☠️ wave\n┊☠️ wink\n┊☠️ woof\n┊☠️ yeet\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *RELIGION MENU* ◈\n┊☠️ bible\n┊☠️ quran\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *SEARCH MENU* ◈\n┊☠️ define\n┊☠️ define2\n┊☠️ imdb\n┊☠️ lyrics\n┊☠️ shazam\n┊☠️ weather\n┊☠️ yts\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *SETTINGS MENU* ◈\n┊☠️ addbadword\n┊☠️ addignorelist\n┊☠️ addsudo\n┊☠️ alwaysonline\n┊☠️ anticall\n┊☠️ antidelete\n┊☠️ antiedit\n┊☠️ autobio\n┊☠️ autoreactstatus\n┊☠️ autoviewstatus\n┊☠️ autoreact\n┊☠️ autoread\n┊☠️ autotype\n┊☠️ autorecord\n┊☠️ autorecordtyping\n┊☠️ chatbot\n┊☠️ deletebadword\n┊☠️ delignorelist\n┊☠️ delsudo\n┊☠️ mode\n┊☠️ setmenu\n┊☠️ setprefix\n┊☠️ setstatusemoji\n┊☠️ welcome\n┊☠️ getsettings\n┊☠️ resetsetting\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *TOOLS MENU* ◈\n┊☠️ browse\n┊☠️ calculate\n┊☠️ emojimix\n┊☠️ fliptext\n┊☠️ gsmarena\n┊☠️ genpass\n┊☠️ device\n┊☠️ obfuscate\n┊☠️ qrcode\n┊☠️ say\n┊☠️ ssweb\n┊☠️ sswebpc\n┊☠️ sswebtab\n┊☠️ sticker\n┊☠️ fancy\n┊☠️ take\n┊☠️ tinyurl\n┊☠️ toimage\n┊☠️ tourl\n┊☠️ translate\n┊☠️ vcc\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *VIDEO MENU* ◈\n┊☠️ volvideo\n╰┉┉┉♰ \n\n",
+      "timestamp": {
+        "low": 1742660973,
+        "high": 0,
+        "unsigned": true
+      }
+    },
+    "3EB0D3E703195BB4EB9CA4": {
+      "sender": "120363415630467765@g.us",
+      "text": "ʟᴏᴀᴅɪɴɢ ʜᴀʙᴀᴇᴋ-V1.0.0...",
+      "timestamp": {
+        "low": 1742660976,
+        "high": 0,
+        "unsigned": true
+      }
+    },
+    "3EB09D971F5942E525F9C3": {
+      "sender": "120363415630467765@g.us",
+      "text": "╭┉╾♰ ◈ *HABAEK-V1.0.0* ♔‌\n┊ *ᴏᴡɴᴇʀ* : ♰♔‌ʟᴏʀᴅ ʜᴀʙᴀᴇᴋ♔‌♰\n┇ *ᴘʀᴇғɪx* : [ . ]\n┇ *ʜᴏsᴛ* : linux\n┇ *ᴘʟᴜɢɪɴs* : 261\n┇ *ᴍᴏᴅᴇ* : Public\n┇ *ᴠᴇʀsɪᴏɴ* : 1.0.0\n┇ *sᴘᴇᴇᴅ* : 261.2357 ms\n┇ *ᴜsᴀɢᴇ* : 72 MB of 126 GB\n┇ *ʀᴀᴍ:* [█████████░] 93%\n╰┉┉┉♰ \n‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎\n╭┉╾♰ ♔‌  *AI MENU* ◈\n┊☠️ habaek\n┊☠️ dalle\n┊☠️ habaek\n┊☠️ generate\n┊☠️ dbrx\n┊☠️ deepseek\n┊☠️ deepseekllm\n┊☠️ doppleai\n┊☠️ gpt\n┊☠️ gpt2\n┊☠️ imagen\n┊☠️ imagine\n┊☠️ letterai\n┊☠️ llama\n┊☠️ metaai\n┊☠️ mistral\n┊☠️ photoai\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *AUDIO MENU* ◈\n┊☠️ bass\n┊☠️ blown\n┊☠️ deep\n┊☠️ earrape\n┊☠️ reverse\n┊☠️ robot\n┊☠️ volaudio\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *DOWNLOAD MENU* ◈\n┊☠️ apk\n┊☠️ download\n┊☠️ facebook\n┊☠️ gdrive\n┊☠️ gitclone\n┊☠️ image\n┊☠️ instagram\n┊☠️ itunes\n┊☠️ mediafire\n┊☠️ pinterest\n┊☠️ play\n┊☠️ playdoc\n┊☠️ ringtone\n┊☠️ savestatus\n┊☠️ tiktok\n┊☠️ tiktokaudio\n┊☠️ video\n┊☠️ videodoc\n┊☠️ videodoc\n┊☠️ xvideos\n┊☠️ ytmp3\n┊☠️ ytmp3doc\n┊☠️ ytmp4\n┊☠️ ytmp4doc\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *EPHOTO360 MENU* ◈\n┊☠️ 1917style\n┊☠️ advancedglow\n┊☠️ blackpinklogo\n┊☠️ blackpinkstyle\n┊☠️ cartoonstyle\n┊☠️ deadpool\n┊☠️ deletingtext\n┊☠️ dragonball\n┊☠️ effectclouds\n┊☠️ flag3dtext\n┊☠️ flagtext\n┊☠️ freecreate\n┊☠️ galaxystyle\n┊☠️ galaxywallpaper\n┊☠️ glitchtext\n┊☠️ glowingtext\n┊☠️ gradienttext\n┊☠️ graffiti\n┊☠️ incandescent\n┊☠️ lighteffects\n┊☠️ logomaker\n┊☠️ luxurygold\n┊☠️ makingneon\n┊☠️ matrix\n┊☠️ multicoloredneon\n┊☠️ neonglitch\n┊☠️ papercutstyle\n┊☠️ pixelglitch\n┊☠️ royaltext\n┊☠️ sand\n┊☠️ summerbeach\n┊☠️ topography\n┊☠️ typography\n┊☠️ watercolortext\n┊☠️ writetext\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *FUN MENU* ◈\n┊☠️ dare\n┊☠️ fact\n┊☠️ jokes\n┊☠️ memes\n┊☠️ quotes\n┊☠️ trivia\n┊☠️ truth\n┊☠️ truthdetector\n┊☠️ xxqc\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *GROUP MENU* ◈\n┊☠️ add\n┊☠️ antibadword\n┊☠️ antibot\n┊☠️ antilink\n┊☠️ antilinkgc\n┊☠️ approveall\n┊☠️ close\n┊☠️ closetime\n┊☠️ delppgroup\n┊☠️ demote\n┊☠️ disapproveall\n┊☠️ editsettings\n┊☠️ link\n┊☠️ hidetag\n┊☠️ invite\n┊☠️ kick\n┊☠️ listonline\n┊☠️ listrequests\n┊☠️ mediatag\n┊☠️ open\n┊☠️ opentime\n┊☠️ poll\n┊☠️ promote\n┊☠️ resetlink\n┊☠️ setdesc\n┊☠️ setgroupname\n┊☠️ setppgroup\n┊☠️ tagadmin\n┊☠️ tagall\n┊☠️ totalmembers\n┊☠️ userid\n┊☠️ vcf\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *HEROKU MENU* ◈\n┊☠️ addvar\n┊☠️ delvar\n┊☠️ getvar\n┊☠️ setbotname\n┊☠️ setname\n┊☠️ setownernumber\n┊☠️ setvar\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *IMAGE MENU* ◈\n┊☠️ remini\n┊☠️ wallpaper\n┊☠️ wikimedia\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *OTHER MENU* ◈\n┊☠️ botstatus\n┊☠️ pair\n┊☠️ ping\n┊☠️ runtime\n┊☠️ repo\n┊☠️ time\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *OWNER MENU* ◈\n┊☠️ block\n┊☠️ delete\n┊☠️ deljunk\n┊☠️ disk\n┊☠️ dlvo\n┊☠️ gcaddprivacy\n┊☠️ getsession\n┊☠️ groupid\n┊☠️ hostip\n┊☠️ join\n┊☠️ lastseen\n┊☠️ leave\n┊☠️ listbadword\n┊☠️ listignorelist\n┊☠️ listsudo\n┊☠️ modestatus\n┊☠️ online\n┊☠️ owner\n┊☠️ ppprivacy\n┊☠️ react\n┊☠️ readreceipts\n┊☠️ reportbug\n┊☠️ request\n┊☠️ restart\n┊☠️ setbio\n┊☠️ setprofilepic\n┊☠️ toviewonce\n┊☠️ unblock\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *REACTION MENU* ◈\n┊☠️ 8ball\n┊☠️ avatar\n┊☠️ awoo\n┊☠️ bite\n┊☠️ blush\n┊☠️ bonk\n┊☠️ bully\n┊☠️ cringe\n┊☠️ cry\n┊☠️ cuddle\n┊☠️ dance\n┊☠️ feed\n┊☠️ foxgirl\n┊☠️ gecg\n┊☠️ glomp\n┊☠️ goose\n┊☠️ handhold\n┊☠️ happy\n┊☠️ highfive\n┊☠️ hug\n┊☠️ kill\n┊☠️ kiss\n┊☠️ lick\n┊☠️ lizard\n┊☠️ meow\n┊☠️ nom\n┊☠️ pat\n┊☠️ poke\n┊☠️ shinobu\n┊☠️ slap\n┊☠️ smile\n┊☠️ smug\n┊☠️ spank\n┊☠️ tickle\n┊☠️ wave\n┊☠️ wink\n┊☠️ woof\n┊☠️ yeet\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *RELIGION MENU* ◈\n┊☠️ bible\n┊☠️ quran\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *SEARCH MENU* ◈\n┊☠️ define\n┊☠️ define2\n┊☠️ imdb\n┊☠️ lyrics\n┊☠️ shazam\n┊☠️ weather\n┊☠️ yts\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *SETTINGS MENU* ◈\n┊☠️ addbadword\n┊☠️ addignorelist\n┊☠️ addsudo\n┊☠️ alwaysonline\n┊☠️ anticall\n┊☠️ antidelete\n┊☠️ antiedit\n┊☠️ autobio\n┊☠️ autoreactstatus\n┊☠️ autoviewstatus\n┊☠️ autoreact\n┊☠️ autoread\n┊☠️ autotype\n┊☠️ autorecord\n┊☠️ autorecordtyping\n┊☠️ chatbot\n┊☠️ deletebadword\n┊☠️ delignorelist\n┊☠️ delsudo\n┊☠️ mode\n┊☠️ setmenu\n┊☠️ setprefix\n┊☠️ setstatusemoji\n┊☠️ welcome\n┊☠️ getsettings\n┊☠️ resetsetting\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *TOOLS MENU* ◈\n┊☠️ browse\n┊☠️ calculate\n┊☠️ emojimix\n┊☠️ fliptext\n┊☠️ gsmarena\n┊☠️ genpass\n┊☠️ device\n┊☠️ obfuscate\n┊☠️ qrcode\n┊☠️ say\n┊☠️ ssweb\n┊☠️ sswebpc\n┊☠️ sswebtab\n┊☠️ sticker\n┊☠️ fancy\n┊☠️ take\n┊☠️ tinyurl\n┊☠️ toimage\n┊☠️ tourl\n┊☠️ translate\n┊☠️ vcc\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *VIDEO MENU* ◈\n┊☠️ volvideo\n╰┉┉┉♰ \n\n",
+      "timestamp": {
+        "low": 1742660976,
+        "high": 0,
+        "unsigned": true
+      }
+    },
+    "C5E826272462C1A67FCE1F9956B0F204": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".habaek",
+      "timestamp": 1742663296
+    },
+    "3EB0D810B4151371986B92": {
+      "sender": "120363415630467765@g.us",
+      "text": "*Please ask a question*",
+      "timestamp": {
+        "low": 1742663298,
+        "high": 0,
+        "unsigned": true
+      }
+    },
+    "133AC730280CE913CE840D2B1007C491": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".tts why are you gay",
+      "timestamp": 1742663497
+    },
+    "CD3081C0ACC7E20D0687E6010F861257": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".base",
+      "timestamp": 1742663525
+    },
+    "43901C4F67AA553D5B65078E800061D0": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".owner",
+      "timestamp": 1742666998
+    },
+    "A683BAD07D77F924E72FDEDCB5CD5F52": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".menu",
+      "timestamp": 1742667007
+    },
+    "3EB0BF3F2DF0A2D5948364": {
+      "sender": "120363415630467765@g.us",
+      "text": "ʟᴏᴀᴅɪɴɢ ʜᴀʙᴀᴇᴋ-V1.0.0...",
+      "timestamp": {
+        "low": 1742667009,
+        "high": 0,
+        "unsigned": true
+      }
+    },
+    "3EB0290188F3266A8C4E8F": {
+      "sender": "120363415630467765@g.us",
+      "text": "╭┉╾♰ ◈ *HABAEK-V1.0.0* ♔‌\n┊ *ᴏᴡɴᴇʀ* : ♰♔‌ʟᴏʀᴅ ʜᴀʙᴀᴇᴋ♔‌♰\n┇ *ᴘʀᴇғɪx* : [ . ]\n┇ *ʜᴏsᴛ* : linux\n┇ *ᴘʟᴜɢɪɴs* : 261\n┇ *ᴍᴏᴅᴇ* : Public\n┇ *ᴠᴇʀsɪᴏɴ* : 1.0.0\n┇ *sᴘᴇᴇᴅ* : 325.8520 ms\n┇ *ᴜsᴀɢᴇ* : 62 MB of 126 GB\n┇ *ʀᴀᴍ:* [█████████░] 95%\n╰┉┉┉♰ \n‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎\n╭┉╾♰ ♔‌  *AI MENU* ◈\n┊☠️ habaek\n┊☠️ dalle\n┊☠️ habaek\n┊☠️ generate\n┊☠️ dbrx\n┊☠️ deepseek\n┊☠️ deepseekllm\n┊☠️ doppleai\n┊☠️ gpt\n┊☠️ gpt2\n┊☠️ imagen\n┊☠️ imagine\n┊☠️ letterai\n┊☠️ llama\n┊☠️ metaai\n┊☠️ mistral\n┊☠️ photoai\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *AUDIO MENU* ◈\n┊☠️ bass\n┊☠️ blown\n┊☠️ deep\n┊☠️ earrape\n┊☠️ reverse\n┊☠️ robot\n┊☠️ volaudio\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *DOWNLOAD MENU* ◈\n┊☠️ apk\n┊☠️ download\n┊☠️ facebook\n┊☠️ gdrive\n┊☠️ gitclone\n┊☠️ image\n┊☠️ instagram\n┊☠️ itunes\n┊☠️ mediafire\n┊☠️ pinterest\n┊☠️ play\n┊☠️ playdoc\n┊☠️ ringtone\n┊☠️ savestatus\n┊☠️ tiktok\n┊☠️ tiktokaudio\n┊☠️ video\n┊☠️ videodoc\n┊☠️ videodoc\n┊☠️ xvideos\n┊☠️ ytmp3\n┊☠️ ytmp3doc\n┊☠️ ytmp4\n┊☠️ ytmp4doc\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *EPHOTO360 MENU* ◈\n┊☠️ 1917style\n┊☠️ advancedglow\n┊☠️ blackpinklogo\n┊☠️ blackpinkstyle\n┊☠️ cartoonstyle\n┊☠️ deadpool\n┊☠️ deletingtext\n┊☠️ dragonball\n┊☠️ effectclouds\n┊☠️ flag3dtext\n┊☠️ flagtext\n┊☠️ freecreate\n┊☠️ galaxystyle\n┊☠️ galaxywallpaper\n┊☠️ glitchtext\n┊☠️ glowingtext\n┊☠️ gradienttext\n┊☠️ graffiti\n┊☠️ incandescent\n┊☠️ lighteffects\n┊☠️ logomaker\n┊☠️ luxurygold\n┊☠️ makingneon\n┊☠️ matrix\n┊☠️ multicoloredneon\n┊☠️ neonglitch\n┊☠️ papercutstyle\n┊☠️ pixelglitch\n┊☠️ royaltext\n┊☠️ sand\n┊☠️ summerbeach\n┊☠️ topography\n┊☠️ typography\n┊☠️ watercolortext\n┊☠️ writetext\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *FUN MENU* ◈\n┊☠️ dare\n┊☠️ fact\n┊☠️ jokes\n┊☠️ memes\n┊☠️ quotes\n┊☠️ trivia\n┊☠️ truth\n┊☠️ truthdetector\n┊☠️ xxqc\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *GROUP MENU* ◈\n┊☠️ add\n┊☠️ antibadword\n┊☠️ antibot\n┊☠️ antilink\n┊☠️ antilinkgc\n┊☠️ approveall\n┊☠️ close\n┊☠️ closetime\n┊☠️ delppgroup\n┊☠️ demote\n┊☠️ disapproveall\n┊☠️ editsettings\n┊☠️ link\n┊☠️ hidetag\n┊☠️ invite\n┊☠️ kick\n┊☠️ listonline\n┊☠️ listrequests\n┊☠️ mediatag\n┊☠️ open\n┊☠️ opentime\n┊☠️ poll\n┊☠️ promote\n┊☠️ resetlink\n┊☠️ setdesc\n┊☠️ setgroupname\n┊☠️ setppgroup\n┊☠️ tagadmin\n┊☠️ tagall\n┊☠️ totalmembers\n┊☠️ userid\n┊☠️ vcf\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *HEROKU MENU* ◈\n┊☠️ addvar\n┊☠️ delvar\n┊☠️ getvar\n┊☠️ setbotname\n┊☠️ setname\n┊☠️ setownernumber\n┊☠️ setvar\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *IMAGE MENU* ◈\n┊☠️ remini\n┊☠️ wallpaper\n┊☠️ wikimedia\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *OTHER MENU* ◈\n┊☠️ botstatus\n┊☠️ pair\n┊☠️ ping\n┊☠️ runtime\n┊☠️ repo\n┊☠️ time\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *OWNER MENU* ◈\n┊☠️ block\n┊☠️ delete\n┊☠️ deljunk\n┊☠️ disk\n┊☠️ dlvo\n┊☠️ gcaddprivacy\n┊☠️ getsession\n┊☠️ groupid\n┊☠️ hostip\n┊☠️ join\n┊☠️ lastseen\n┊☠️ leave\n┊☠️ listbadword\n┊☠️ listignorelist\n┊☠️ listsudo\n┊☠️ modestatus\n┊☠️ online\n┊☠️ owner\n┊☠️ ppprivacy\n┊☠️ react\n┊☠️ readreceipts\n┊☠️ reportbug\n┊☠️ request\n┊☠️ restart\n┊☠️ setbio\n┊☠️ setprofilepic\n┊☠️ toviewonce\n┊☠️ unblock\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *REACTION MENU* ◈\n┊☠️ 8ball\n┊☠️ avatar\n┊☠️ awoo\n┊☠️ bite\n┊☠️ blush\n┊☠️ bonk\n┊☠️ bully\n┊☠️ cringe\n┊☠️ cry\n┊☠️ cuddle\n┊☠️ dance\n┊☠️ feed\n┊☠️ foxgirl\n┊☠️ gecg\n┊☠️ glomp\n┊☠️ goose\n┊☠️ handhold\n┊☠️ happy\n┊☠️ highfive\n┊☠️ hug\n┊☠️ kill\n┊☠️ kiss\n┊☠️ lick\n┊☠️ lizard\n┊☠️ meow\n┊☠️ nom\n┊☠️ pat\n┊☠️ poke\n┊☠️ shinobu\n┊☠️ slap\n┊☠️ smile\n┊☠️ smug\n┊☠️ spank\n┊☠️ tickle\n┊☠️ wave\n┊☠️ wink\n┊☠️ woof\n┊☠️ yeet\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *RELIGION MENU* ◈\n┊☠️ bible\n┊☠️ quran\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *SEARCH MENU* ◈\n┊☠️ define\n┊☠️ define2\n┊☠️ imdb\n┊☠️ lyrics\n┊☠️ shazam\n┊☠️ weather\n┊☠️ yts\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *SETTINGS MENU* ◈\n┊☠️ addbadword\n┊☠️ addignorelist\n┊☠️ addsudo\n┊☠️ alwaysonline\n┊☠️ anticall\n┊☠️ antidelete\n┊☠️ antiedit\n┊☠️ autobio\n┊☠️ autoreactstatus\n┊☠️ autoviewstatus\n┊☠️ autoreact\n┊☠️ autoread\n┊☠️ autotype\n┊☠️ autorecord\n┊☠️ autorecordtyping\n┊☠️ chatbot\n┊☠️ deletebadword\n┊☠️ delignorelist\n┊☠️ delsudo\n┊☠️ mode\n┊☠️ setmenu\n┊☠️ setprefix\n┊☠️ setstatusemoji\n┊☠️ welcome\n┊☠️ getsettings\n┊☠️ resetsetting\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *TOOLS MENU* ◈\n┊☠️ browse\n┊☠️ calculate\n┊☠️ emojimix\n┊☠️ fliptext\n┊☠️ gsmarena\n┊☠️ genpass\n┊☠️ device\n┊☠️ obfuscate\n┊☠️ qrcode\n┊☠️ say\n┊☠️ ssweb\n┊☠️ sswebpc\n┊☠️ sswebtab\n┊☠️ sticker\n┊☠️ fancy\n┊☠️ take\n┊☠️ tinyurl\n┊☠️ toimage\n┊☠️ tourl\n┊☠️ translate\n┊☠️ vcc\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *VIDEO MENU* ◈\n┊☠️ volvideo\n╰┉┉┉♰ \n\n",
+      "timestamp": {
+        "low": 1742667011,
+        "high": 0,
+        "unsigned": true
+      }
+    },
+    "FB0FBDBE8C2472FB960C6B99ACC883A9": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".habaek how do you think All the Queen's Men will end",
+      "timestamp": 1742668817
+    },
+    "3EB0FCFF2668176B6FD35D": {
+      "sender": "120363415630467765@g.us",
+      "text": "An error occurred while fetching the response from habaekAI API.",
+      "timestamp": {
+        "low": 1742668826,
+        "high": 0,
+        "unsigned": true
+      }
+    },
+    "A0E3E4B915C8CD9D1BB24E25426BFE15": {
+      "sender": "2348140984100@s.whatsapp.net",
+      "text": "Yo bro",
+      "timestamp": 1742668838
+    },
+    "08393ED8D92786F5158AC1AF63CA8CD5": {
+      "sender": "2348140984100@s.whatsapp.net",
+      "text": "Why can't I see the message",
+      "timestamp": 1742668846
+    },
+    "F8B56EA14E5B04F1DC78998502B19070": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "Wassup",
+      "timestamp": 1742668853
+    },
+    "E19B2B1D657DB87458C43CDA44121A91": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "Whatchu mean",
+      "timestamp": 1742668861
+    },
+    "0608B7A7F79540E0B3C1B363CC3A37A6": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "Oh you mean the bots message",
+      "timestamp": 1742669062
+    },
+    "2AC6F52315E63B5050B6FB1F8F7D5CD8": {
+      "sender": "2348140984100@s.whatsapp.net",
+      "text": "Yes sensei",
+      "timestamp": 1742669076
+    },
+    "04F165F324F41C56C3E9B2D150B48AF1": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "Ky it happens sometimes but they'll show up soon",
+      "timestamp": 1742669115
+    },
+    "E2B93A7CE24D1365A77EE9DD5301B80E": {
+      "sender": "2348140984100@s.whatsapp.net",
+      "text": "Ok no issues",
+      "timestamp": 1742669133
+    },
+    "D4E0E03C2A48632A66F326C9F5B4424C": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "Cool whatchu doing at the moment",
+      "timestamp": 1742669154
+    },
+    "C5DBEFAFC12EE131C672BE049158DAA5": {
+      "sender": "2348140984100@s.whatsapp.net",
+      "text": "Nothing",
+      "timestamp": 1742669198
+    },
+    "DB913E546D9E12B0F491C23E453DF756": {
+      "sender": "2348140984100@s.whatsapp.net",
+      "text": "Just preparing for u",
+      "timestamp": 1742669203
+    },
+    "8C6AE58A2A65528CA6208EE3F8FBA870": {
+      "sender": "2348140984100@s.whatsapp.net",
+      "text": ".menu",
+      "timestamp": 1742669284
+    },
+    "9F3317DDE2408CFAA76872894902A70B": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "Oky cool imma do the vid soon but which bot are you gonna deploy",
+      "timestamp": 1742669299
+    },
+    "7E14FC2387D2BD3DA6DEAE0AA79BF866": {
+      "sender": "2348140984100@s.whatsapp.net",
+      "text": "The what'sapp own",
+      "timestamp": 1742669319
+    },
+    "151A8A0A3E5CB0B5A27C8B68CD0D86A1": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "Which coz they're a lot of them and different too",
+      "timestamp": 1742669371
+    },
+    "684E92ECEA6FFAD771D0C91729E9E9CF": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".menu",
+      "timestamp": 1742669379
+    },
+    "3EB02A772172890B3A55B4": {
+      "sender": "120363415630467765@g.us",
+      "text": "ʟᴏᴀᴅɪɴɢ ʜᴀʙᴀᴇᴋ-V1.0.0...",
+      "timestamp": {
+        "low": 1742669381,
+        "high": 0,
+        "unsigned": true
+      }
+    },
+    "3EB0B2467CB5D75CE6F3AD": {
+      "sender": "120363415630467765@g.us",
+      "text": "╭┉╾♰ ◈ *HABAEK-V1.0.0* ♔‌\n┊ *ᴏᴡɴᴇʀ* : ♰♔‌ʟᴏʀᴅ ʜᴀʙᴀᴇᴋ♔‌♰\n┇ *ᴘʀᴇғɪx* : [ . ]\n┇ *ʜᴏsᴛ* : linux\n┇ *ᴘʟᴜɢɪɴs* : 261\n┇ *ᴍᴏᴅᴇ* : Public\n┇ *ᴠᴇʀsɪᴏɴ* : 1.0.0\n┇ *sᴘᴇᴇᴅ* : 442.8305 ms\n┇ *ᴜsᴀɢᴇ* : 63 MB of 126 GB\n┇ *ʀᴀᴍ:* [██████████] 95%\n╰┉┉┉♰ \n‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎\n╭┉╾♰ ♔‌  *AI MENU* ◈\n┊☠️ habaek\n┊☠️ dalle\n┊☠️ habaek\n┊☠️ generate\n┊☠️ dbrx\n┊☠️ deepseek\n┊☠️ deepseekllm\n┊☠️ doppleai\n┊☠️ gpt\n┊☠️ gpt2\n┊☠️ imagen\n┊☠️ imagine\n┊☠️ letterai\n┊☠️ llama\n┊☠️ metaai\n┊☠️ mistral\n┊☠️ photoai\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *AUDIO MENU* ◈\n┊☠️ bass\n┊☠️ blown\n┊☠️ deep\n┊☠️ earrape\n┊☠️ reverse\n┊☠️ robot\n┊☠️ volaudio\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *DOWNLOAD MENU* ◈\n┊☠️ apk\n┊☠️ download\n┊☠️ facebook\n┊☠️ gdrive\n┊☠️ gitclone\n┊☠️ image\n┊☠️ instagram\n┊☠️ itunes\n┊☠️ mediafire\n┊☠️ pinterest\n┊☠️ play\n┊☠️ playdoc\n┊☠️ ringtone\n┊☠️ savestatus\n┊☠️ tiktok\n┊☠️ tiktokaudio\n┊☠️ video\n┊☠️ videodoc\n┊☠️ videodoc\n┊☠️ xvideos\n┊☠️ ytmp3\n┊☠️ ytmp3doc\n┊☠️ ytmp4\n┊☠️ ytmp4doc\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *EPHOTO360 MENU* ◈\n┊☠️ 1917style\n┊☠️ advancedglow\n┊☠️ blackpinklogo\n┊☠️ blackpinkstyle\n┊☠️ cartoonstyle\n┊☠️ deadpool\n┊☠️ deletingtext\n┊☠️ dragonball\n┊☠️ effectclouds\n┊☠️ flag3dtext\n┊☠️ flagtext\n┊☠️ freecreate\n┊☠️ galaxystyle\n┊☠️ galaxywallpaper\n┊☠️ glitchtext\n┊☠️ glowingtext\n┊☠️ gradienttext\n┊☠️ graffiti\n┊☠️ incandescent\n┊☠️ lighteffects\n┊☠️ logomaker\n┊☠️ luxurygold\n┊☠️ makingneon\n┊☠️ matrix\n┊☠️ multicoloredneon\n┊☠️ neonglitch\n┊☠️ papercutstyle\n┊☠️ pixelglitch\n┊☠️ royaltext\n┊☠️ sand\n┊☠️ summerbeach\n┊☠️ topography\n┊☠️ typography\n┊☠️ watercolortext\n┊☠️ writetext\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *FUN MENU* ◈\n┊☠️ dare\n┊☠️ fact\n┊☠️ jokes\n┊☠️ memes\n┊☠️ quotes\n┊☠️ trivia\n┊☠️ truth\n┊☠️ truthdetector\n┊☠️ xxqc\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *GROUP MENU* ◈\n┊☠️ add\n┊☠️ antibadword\n┊☠️ antibot\n┊☠️ antilink\n┊☠️ antilinkgc\n┊☠️ approveall\n┊☠️ close\n┊☠️ closetime\n┊☠️ delppgroup\n┊☠️ demote\n┊☠️ disapproveall\n┊☠️ editsettings\n┊☠️ link\n┊☠️ hidetag\n┊☠️ invite\n┊☠️ kick\n┊☠️ listonline\n┊☠️ listrequests\n┊☠️ mediatag\n┊☠️ open\n┊☠️ opentime\n┊☠️ poll\n┊☠️ promote\n┊☠️ resetlink\n┊☠️ setdesc\n┊☠️ setgroupname\n┊☠️ setppgroup\n┊☠️ tagadmin\n┊☠️ tagall\n┊☠️ totalmembers\n┊☠️ userid\n┊☠️ vcf\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *HEROKU MENU* ◈\n┊☠️ addvar\n┊☠️ delvar\n┊☠️ getvar\n┊☠️ setbotname\n┊☠️ setname\n┊☠️ setownernumber\n┊☠️ setvar\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *IMAGE MENU* ◈\n┊☠️ remini\n┊☠️ wallpaper\n┊☠️ wikimedia\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *OTHER MENU* ◈\n┊☠️ botstatus\n┊☠️ pair\n┊☠️ ping\n┊☠️ runtime\n┊☠️ repo\n┊☠️ time\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *OWNER MENU* ◈\n┊☠️ block\n┊☠️ delete\n┊☠️ deljunk\n┊☠️ disk\n┊☠️ dlvo\n┊☠️ gcaddprivacy\n┊☠️ getsession\n┊☠️ groupid\n┊☠️ hostip\n┊☠️ join\n┊☠️ lastseen\n┊☠️ leave\n┊☠️ listbadword\n┊☠️ listignorelist\n┊☠️ listsudo\n┊☠️ modestatus\n┊☠️ online\n┊☠️ owner\n┊☠️ ppprivacy\n┊☠️ react\n┊☠️ readreceipts\n┊☠️ reportbug\n┊☠️ request\n┊☠️ restart\n┊☠️ setbio\n┊☠️ setprofilepic\n┊☠️ toviewonce\n┊☠️ unblock\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *REACTION MENU* ◈\n┊☠️ 8ball\n┊☠️ avatar\n┊☠️ awoo\n┊☠️ bite\n┊☠️ blush\n┊☠️ bonk\n┊☠️ bully\n┊☠️ cringe\n┊☠️ cry\n┊☠️ cuddle\n┊☠️ dance\n┊☠️ feed\n┊☠️ foxgirl\n┊☠️ gecg\n┊☠️ glomp\n┊☠️ goose\n┊☠️ handhold\n┊☠️ happy\n┊☠️ highfive\n┊☠️ hug\n┊☠️ kill\n┊☠️ kiss\n┊☠️ lick\n┊☠️ lizard\n┊☠️ meow\n┊☠️ nom\n┊☠️ pat\n┊☠️ poke\n┊☠️ shinobu\n┊☠️ slap\n┊☠️ smile\n┊☠️ smug\n┊☠️ spank\n┊☠️ tickle\n┊☠️ wave\n┊☠️ wink\n┊☠️ woof\n┊☠️ yeet\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *RELIGION MENU* ◈\n┊☠️ bible\n┊☠️ quran\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *SEARCH MENU* ◈\n┊☠️ define\n┊☠️ define2\n┊☠️ imdb\n┊☠️ lyrics\n┊☠️ shazam\n┊☠️ weather\n┊☠️ yts\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *SETTINGS MENU* ◈\n┊☠️ addbadword\n┊☠️ addignorelist\n┊☠️ addsudo\n┊☠️ alwaysonline\n┊☠️ anticall\n┊☠️ antidelete\n┊☠️ antiedit\n┊☠️ autobio\n┊☠️ autoreactstatus\n┊☠️ autoviewstatus\n┊☠️ autoreact\n┊☠️ autoread\n┊☠️ autotype\n┊☠️ autorecord\n┊☠️ autorecordtyping\n┊☠️ chatbot\n┊☠️ deletebadword\n┊☠️ delignorelist\n┊☠️ delsudo\n┊☠️ mode\n┊☠️ setmenu\n┊☠️ setprefix\n┊☠️ setstatusemoji\n┊☠️ welcome\n┊☠️ getsettings\n┊☠️ resetsetting\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *TOOLS MENU* ◈\n┊☠️ browse\n┊☠️ calculate\n┊☠️ emojimix\n┊☠️ fliptext\n┊☠️ gsmarena\n┊☠️ genpass\n┊☠️ device\n┊☠️ obfuscate\n┊☠️ qrcode\n┊☠️ say\n┊☠️ ssweb\n┊☠️ sswebpc\n┊☠️ sswebtab\n┊☠️ sticker\n┊☠️ fancy\n┊☠️ take\n┊☠️ tinyurl\n┊☠️ toimage\n┊☠️ tourl\n┊☠️ translate\n┊☠️ vcc\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *VIDEO MENU* ◈\n┊☠️ volvideo\n╰┉┉┉♰ \n\n",
+      "timestamp": {
+        "low": 1742669382,
+        "high": 0,
+        "unsigned": true
+      }
+    },
+    "C8E3C56A12D7C2C2BA3EA0C80AABCA11": {
+      "sender": "2348140984100@s.whatsapp.net",
+      "text": "The type of urs",
+      "timestamp": 1742669390
+    },
+    "79D4E1B315970D9A5E92751AFD7A46BA": {
+      "sender": "2348140984100@s.whatsapp.net",
+      "text": "Am not seeing them",
+      "timestamp": 1742669395
+    },
+    "5F4665640910DB46112344B70E10F057": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "Cool but mine is still underdevelopment and it's not yet to be published",
+      "timestamp": 1742669463
+    },
+    "67E4D23089152E876F2002E7DEEE85F7": {
+      "sender": "2348140984100@s.whatsapp.net",
+      "text": "Recommend any for me",
+      "timestamp": 1742669566
+    },
+    "9B64C2CA3005738CE0BD3C591F7DE33B": {
+      "sender": "2348140984100@s.whatsapp.net",
+      "text": "The one you recommend is what am gonna use",
+      "timestamp": 1742669577
+    },
+    "3142C2AB7799082DE66C421B133AE4A8": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "Lemme see",
+      "timestamp": 1742670559
+    },
+    "8F6B7D8EB58FA2DC97830118EA0472AE": {
+      "sender": "2348140984100@s.whatsapp.net",
+      "text": "No am saying you should recommend one for me",
+      "timestamp": 1742670692
+    },
+    "5B68D46B2C788CAA1DF31018E956E522": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "I heard that's why i said lemme see meaning I'm checking it myself",
+      "timestamp": 1742670745
+    },
+    "7687D1AA94BDEE0A21885579A74E336B": {
+      "sender": "2348140984100@s.whatsapp.net",
+      "text": "Ohhhh",
+      "timestamp": 1742670758
+    },
+    "8E73F0AEC658CBCE64A744E8EA671602": {
+      "sender": "2348140984100@s.whatsapp.net",
+      "text": "Ok",
+      "timestamp": 1742670761
+    },
+    "DA9E342B03D28F622D6EF05F46FD9800": {
+      "sender": "2348140984100@s.whatsapp.net",
+      "text": "I didn't understand",
+      "timestamp": 1742670765
+    },
+    "8829BCEB70F254DDC99499EF0350E93C": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "Oky no prob",
+      "timestamp": 1742670783
+    },
+    "C05B3D6D1DDBF9445E4D28FD39285F2D": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ". listonline",
+      "timestamp": 1742677852
+    },
+    "3EB007412D4D61626D85B6": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "*No online members detected in this group.*",
+      "timestamp": 1742677855
+    },
+    "3EB0F1A5082F0AB9E5299F": {
+      "sender": "120363415630467765@g.us",
+      "text": "*ONLINE MEMBERS IN THIS GROUP*\n\n1 . @263712473551\n2 . @2348140984100\n3 . @263777461443",
+      "timestamp": {
+        "low": 1742677856,
+        "high": 0,
+        "unsigned": true
+      }
+    },
+    "D4C6B62D0ADDD63BC7E12DDA41897983": {
+      "sender": "2348140984100@s.whatsapp.net",
+      "text": "Am active",
+      "timestamp": 1742677866
+    },
+    "1E06DA0AD28650B28E139829035D254B": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "Cool",
+      "timestamp": 1742677897
+    },
+    "F395C3F399B96AA0F858BFC6219F2198": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".link",
+      "timestamp": 1742678243
+    },
+    "3EB06B48655856694C8F0C": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "*GROUP LINK*\n\n*NAME:* 𝐇𝐀𝐁𝐀𝐄𝐊-𝐌𝐃 𝐒𝐔𝐏𝐏𝐎𝐑𝐓\n\n*OWNER:* +263712473551\n\n*ID:* 120363415630467765@g.us\n\n*LINK:* https://chat.whatsapp.com/J9aqRqxPRtL6VHV8Mq0b3N\n\n*MEMBERS:* 6",
+      "timestamp": 1742678245
+    },
+    "3EB023A1502D2E5DF14328": {
+      "sender": "120363415630467765@g.us",
+      "text": "*GROUP LINK*\n\n*NAME:* 𝐇𝐀𝐁𝐀𝐄𝐊-𝐌𝐃 𝐒𝐔𝐏𝐏𝐎𝐑𝐓\n\n*OWNER:* +263712473551\n\n*ID:* 120363415630467765@g.us\n\n*LINK:* https://chat.whatsapp.com/J9aqRqxPRtL6VHV8Mq0b3N\n\n*MEMBERS:* 6",
+      "timestamp": {
+        "low": 1742678245,
+        "high": 0,
+        "unsigned": true
+      }
+    },
+    "BA86F87C4F97A838F1B2049910A88217": {
+      "sender": "2348140984100@s.whatsapp.net",
+      "text": "Can I use urs",
+      "timestamp": 1742678522
+    },
+    "001EA6CF40C0C648AAA2A9BD27C5E3DC": {
+      "sender": "2348140984100@s.whatsapp.net",
+      "text": "Ur own server",
+      "timestamp": 1742678526
+    },
+    "AF29DFDFE45CCE6E2FF07A26B7B8FC57": {
+      "sender": "2348140984100@s.whatsapp.net",
+      "text": "What about the file",
+      "timestamp": 1742678682
+    },
+    "579CD8DC8DCC3297AC40EA47EA6654B4": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "Still developing go link your whatsapp on a bot called regarnok md",
+      "timestamp": 1742678897
+    },
+    "594F55ABFEA048118C9691651BA370F0": {
+      "sender": "2348140984100@s.whatsapp.net",
+      "text": "Is the bot on github",
+      "timestamp": 1742678959
+    },
+    "3CFC916CBA10D63435BA99A0E2D12367": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "No it's still underdevelopment",
+      "timestamp": 1742679795
+    },
+    "930B986E8445B9BEC79D2D142077B6E7": {
+      "sender": "2348140984100@s.whatsapp.net",
+      "text": "Ohok",
+      "timestamp": 1742679813
+    },
+    "C9DDDDE0B4F39A13D2123E59D234DE13": {
+      "sender": "2348140984100@s.whatsapp.net",
+      "text": "I mean the regarnok",
+      "timestamp": 1742679840
+    },
+    "53F681D657D9859F53D76B282811CA80": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "Yes it is",
+      "timestamp": 1742680025
+    },
+    "B28751CF5CD3B3BA747EAFE5A1BC5939": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "https://github.com/souravkl11/raganork-md",
+      "timestamp": 1742680105
+    },
+    "AC1358D380BACB4F3EC084347A8A3008": {
+      "sender": "2348140984100@s.whatsapp.net",
+      "text": "What do i do here",
+      "timestamp": 1742681064
+    },
+    "885A06CD767AC7097EF6BAA94EA0CEB6": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "Select your country code then enter your number",
+      "timestamp": 1742686472
+    },
+    "CE8D4F149AEAAFB18484401AC1048984": {
+      "sender": "2348140984100@s.whatsapp.net",
+      "text": "I have",
+      "timestamp": 1742686738
+    },
+    "129549F633E1ECAA363C2E27AF6FF7A0": {
+      "sender": "2348140984100@s.whatsapp.net",
+      "text": "It didn't work",
+      "timestamp": 1742686744
+    },
+    "95DF4095C6E6670F953CB03F65BF7CDD": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "😏srsly",
+      "timestamp": 1742686812
+    },
+    "C6680406B3360B6FFBADD24676EC521B": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".menu",
+      "timestamp": 1742686824
+    },
+    "3EB0C38B4569A2F61AAB2F": {
+      "sender": "120363415630467765@g.us",
+      "text": "ʟᴏᴀᴅɪɴɢ ʜᴀʙᴀᴇᴋ-V1.0.0...",
+      "timestamp": {
+        "low": 1742686826,
+        "high": 0,
+        "unsigned": true
+      }
+    },
+    "3EB09B10B684EA0218363F": {
+      "sender": "120363415630467765@g.us",
+      "text": "╭┉╾♰ ◈ *HABAEK-V1.0.0* ♔‌\n┊ *ᴏᴡɴᴇʀ* : ♰♔‌ʟᴏʀᴅ ʜᴀʙᴀᴇᴋ♔‌♰\n┇ *ᴘʀᴇғɪx* : [ . ]\n┇ *ʜᴏsᴛ* : linux\n┇ *ᴘʟᴜɢɪɴs* : 261\n┇ *ᴍᴏᴅᴇ* : Public\n┇ *ᴠᴇʀsɪᴏɴ* : 1.0.0\n┇ *sᴘᴇᴇᴅ* : 1139.0380 ms\n┇ *ᴜsᴀɢᴇ* : 67 MB of 126 GB\n┇ *ʀᴀᴍ:* [█████████░] 94%\n╰┉┉┉♰ \n‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎\n╭┉╾♰ ♔‌  *AI MENU* ◈\n┊☠️ habaek\n┊☠️ dalle\n┊☠️ habaek\n┊☠️ generate\n┊☠️ dbrx\n┊☠️ deepseek\n┊☠️ deepseekllm\n┊☠️ doppleai\n┊☠️ gpt\n┊☠️ gpt2\n┊☠️ imagen\n┊☠️ imagine\n┊☠️ letterai\n┊☠️ llama\n┊☠️ metaai\n┊☠️ mistral\n┊☠️ photoai\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *AUDIO MENU* ◈\n┊☠️ bass\n┊☠️ blown\n┊☠️ deep\n┊☠️ earrape\n┊☠️ reverse\n┊☠️ robot\n┊☠️ volaudio\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *DOWNLOAD MENU* ◈\n┊☠️ apk\n┊☠️ download\n┊☠️ facebook\n┊☠️ gdrive\n┊☠️ gitclone\n┊☠️ image\n┊☠️ instagram\n┊☠️ itunes\n┊☠️ mediafire\n┊☠️ pinterest\n┊☠️ play\n┊☠️ playdoc\n┊☠️ ringtone\n┊☠️ savestatus\n┊☠️ tiktok\n┊☠️ tiktokaudio\n┊☠️ video\n┊☠️ videodoc\n┊☠️ videodoc\n┊☠️ xvideos\n┊☠️ ytmp3\n┊☠️ ytmp3doc\n┊☠️ ytmp4\n┊☠️ ytmp4doc\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *EPHOTO360 MENU* ◈\n┊☠️ 1917style\n┊☠️ advancedglow\n┊☠️ blackpinklogo\n┊☠️ blackpinkstyle\n┊☠️ cartoonstyle\n┊☠️ deadpool\n┊☠️ deletingtext\n┊☠️ dragonball\n┊☠️ effectclouds\n┊☠️ flag3dtext\n┊☠️ flagtext\n┊☠️ freecreate\n┊☠️ galaxystyle\n┊☠️ galaxywallpaper\n┊☠️ glitchtext\n┊☠️ glowingtext\n┊☠️ gradienttext\n┊☠️ graffiti\n┊☠️ incandescent\n┊☠️ lighteffects\n┊☠️ logomaker\n┊☠️ luxurygold\n┊☠️ makingneon\n┊☠️ matrix\n┊☠️ multicoloredneon\n┊☠️ neonglitch\n┊☠️ papercutstyle\n┊☠️ pixelglitch\n┊☠️ royaltext\n┊☠️ sand\n┊☠️ summerbeach\n┊☠️ topography\n┊☠️ typography\n┊☠️ watercolortext\n┊☠️ writetext\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *FUN MENU* ◈\n┊☠️ dare\n┊☠️ fact\n┊☠️ jokes\n┊☠️ memes\n┊☠️ quotes\n┊☠️ trivia\n┊☠️ truth\n┊☠️ truthdetector\n┊☠️ xxqc\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *GROUP MENU* ◈\n┊☠️ add\n┊☠️ antibadword\n┊☠️ antibot\n┊☠️ antilink\n┊☠️ antilinkgc\n┊☠️ approveall\n┊☠️ close\n┊☠️ closetime\n┊☠️ delppgroup\n┊☠️ demote\n┊☠️ disapproveall\n┊☠️ editsettings\n┊☠️ link\n┊☠️ hidetag\n┊☠️ invite\n┊☠️ kick\n┊☠️ listonline\n┊☠️ listrequests\n┊☠️ mediatag\n┊☠️ open\n┊☠️ opentime\n┊☠️ poll\n┊☠️ promote\n┊☠️ resetlink\n┊☠️ setdesc\n┊☠️ setgroupname\n┊☠️ setppgroup\n┊☠️ tagadmin\n┊☠️ tagall\n┊☠️ totalmembers\n┊☠️ userid\n┊☠️ vcf\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *HEROKU MENU* ◈\n┊☠️ addvar\n┊☠️ delvar\n┊☠️ getvar\n┊☠️ setbotname\n┊☠️ setname\n┊☠️ setownernumber\n┊☠️ setvar\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *IMAGE MENU* ◈\n┊☠️ remini\n┊☠️ wallpaper\n┊☠️ wikimedia\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *OTHER MENU* ◈\n┊☠️ botstatus\n┊☠️ pair\n┊☠️ ping\n┊☠️ runtime\n┊☠️ repo\n┊☠️ time\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *OWNER MENU* ◈\n┊☠️ block\n┊☠️ delete\n┊☠️ deljunk\n┊☠️ disk\n┊☠️ dlvo\n┊☠️ gcaddprivacy\n┊☠️ getsession\n┊☠️ groupid\n┊☠️ hostip\n┊☠️ join\n┊☠️ lastseen\n┊☠️ leave\n┊☠️ listbadword\n┊☠️ listignorelist\n┊☠️ listsudo\n┊☠️ modestatus\n┊☠️ online\n┊☠️ owner\n┊☠️ ppprivacy\n┊☠️ react\n┊☠️ readreceipts\n┊☠️ reportbug\n┊☠️ request\n┊☠️ restart\n┊☠️ setbio\n┊☠️ setprofilepic\n┊☠️ toviewonce\n┊☠️ unblock\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *REACTION MENU* ◈\n┊☠️ 8ball\n┊☠️ avatar\n┊☠️ awoo\n┊☠️ bite\n┊☠️ blush\n┊☠️ bonk\n┊☠️ bully\n┊☠️ cringe\n┊☠️ cry\n┊☠️ cuddle\n┊☠️ dance\n┊☠️ feed\n┊☠️ foxgirl\n┊☠️ gecg\n┊☠️ glomp\n┊☠️ goose\n┊☠️ handhold\n┊☠️ happy\n┊☠️ highfive\n┊☠️ hug\n┊☠️ kill\n┊☠️ kiss\n┊☠️ lick\n┊☠️ lizard\n┊☠️ meow\n┊☠️ nom\n┊☠️ pat\n┊☠️ poke\n┊☠️ shinobu\n┊☠️ slap\n┊☠️ smile\n┊☠️ smug\n┊☠️ spank\n┊☠️ tickle\n┊☠️ wave\n┊☠️ wink\n┊☠️ woof\n┊☠️ yeet\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *RELIGION MENU* ◈\n┊☠️ bible\n┊☠️ quran\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *SEARCH MENU* ◈\n┊☠️ define\n┊☠️ define2\n┊☠️ imdb\n┊☠️ lyrics\n┊☠️ shazam\n┊☠️ weather\n┊☠️ yts\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *SETTINGS MENU* ◈\n┊☠️ addbadword\n┊☠️ addignorelist\n┊☠️ addsudo\n┊☠️ alwaysonline\n┊☠️ anticall\n┊☠️ antidelete\n┊☠️ antiedit\n┊☠️ autobio\n┊☠️ autoreactstatus\n┊☠️ autoviewstatus\n┊☠️ autoreact\n┊☠️ autoread\n┊☠️ autotype\n┊☠️ autorecord\n┊☠️ autorecordtyping\n┊☠️ chatbot\n┊☠️ deletebadword\n┊☠️ delignorelist\n┊☠️ delsudo\n┊☠️ mode\n┊☠️ setmenu\n┊☠️ setprefix\n┊☠️ setstatusemoji\n┊☠️ welcome\n┊☠️ getsettings\n┊☠️ resetsetting\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *TOOLS MENU* ◈\n┊☠️ browse\n┊☠️ calculate\n┊☠️ emojimix\n┊☠️ fliptext\n┊☠️ gsmarena\n┊☠️ genpass\n┊☠️ device\n┊☠️ obfuscate\n┊☠️ qrcode\n┊☠️ say\n┊☠️ ssweb\n┊☠️ sswebpc\n┊☠️ sswebtab\n┊☠️ sticker\n┊☠️ fancy\n┊☠️ take\n┊☠️ tinyurl\n┊☠️ toimage\n┊☠️ tourl\n┊☠️ translate\n┊☠️ vcc\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *VIDEO MENU* ◈\n┊☠️ volvideo\n╰┉┉┉♰ \n\n",
+      "timestamp": {
+        "low": 1742686828,
+        "high": 0,
+        "unsigned": true
+      }
+    },
+    "FBD37C2CC35DFA1044CCF6210AB5061D": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".tts interesting",
+      "timestamp": 1742686858
+    },
+    "FF0854007AC99C0CDE2C1F0192C6C40A": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".base",
+      "timestamp": 1742686872
+    },
+    "A96893AB533D3FDFC18B04AFBD24B298": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".bass",
+      "timestamp": 1742686881
+    },
+    "204596E37D9F5B6A29572B217228CF1D": {
+      "sender": "2348140984100@s.whatsapp.net",
+      "text": "Yes",
+      "timestamp": 1742686893
+    },
+    "F30210CD06A8DD328B2D2850F2BF524F": {
+      "sender": "2348140984100@s.whatsapp.net",
+      "text": "Same thing",
+      "timestamp": 1742686901
+    },
+    "6B2328B7C02187A7FF9302D0520B351C": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "That ain't good but how",
+      "timestamp": 1742686911
+    },
+    "2972F1CC9F458656E97091F5B8686AAC": {
+      "sender": "2348140984100@s.whatsapp.net",
+      "text": "The id came",
+      "timestamp": 1742686928
+    },
+    "C5E65BF441674D9FD713BFB55602A260": {
+      "sender": "2348140984100@s.whatsapp.net",
+      "text": "To my WhatsApp",
+      "timestamp": 1742686933
+    },
+    "19930665837BA8C68D73436FFF216AD7": {
+      "sender": "2348140984100@s.whatsapp.net",
+      "text": "But was still showing this",
+      "timestamp": 1742686945
+    },
+    "0E3D6965F1797CA88C114F27D9F29534": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "Cool download the file",
+      "timestamp": 1742686956
+    },
+    "B6DC578972C354316E3A2674961B9538": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "That doesn't matter",
+      "timestamp": 1742686967
+    },
+    "D914C0A6C1B41A2976C08B447755F6A3": {
+      "sender": "2348140984100@s.whatsapp.net",
+      "text": "What file",
+      "timestamp": 1742687632
+    },
+    "03C4DE31272CBA596B4B81954CA0E79A": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "Bot file",
+      "timestamp": 1742690457
+    },
+    "DA428E0FD52385916DA8F6CBCBED2A45": {
+      "sender": "2348140984100@s.whatsapp.net",
+      "text": "Where is it located",
+      "timestamp": 1742692684
+    },
+    "50830C8F17951238F8AF84DE238FA458": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "I dosed😄😄",
+      "timestamp": 1742711353
+    },
+    "E75CC5AF2FFF4E505935984F4654AC74": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".runtime",
+      "timestamp": 1742711365
+    },
+    "3EB0CD70999047B2135009": {
+      "sender": "120363415630467765@g.us",
+      "text": "*⏰ 2 days, 6 hours, 9 minutes, 16 seconds*",
+      "timestamp": {
+        "low": 1742711367,
+        "high": 0,
+        "unsigned": true
+      }
+    },
+    "F068C8644AC69F520CA04296D78774E3": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".owner",
+      "timestamp": 1742711381
+    },
+    "46DDF96466DF104BB26A887EAD047EBD": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "Method 1: Download ZIP File\n1. Go to the GitHub repository page.\n2. Click the *Code* button.\n3. Select *Download ZIP* from the dropdown menu.\n4. Choose the branch or commit you want to download (optional).\n5. Click *Download* to save the ZIP file.\n6.",
+      "timestamp": 1742712538
+    },
+    "6942444F094C1C9F243935ACE49769DC": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".pair",
+      "timestamp": 1742712954
+    },
+    "3EB036B72DFFF8A445DEED": {
+      "sender": "120363415630467765@g.us",
+      "text": "*Provide a phone number*\nExample: .pair 2637124735x",
+      "timestamp": {
+        "low": 1742712956,
+        "high": 0,
+        "unsigned": true
+      }
+    },
+    "9961C742073A5C31C0CE7EA95686BD20": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".pair 263712473551",
+      "timestamp": 1742712980
+    },
+    "3EB02E6BFF4D3803C53ADE": {
+      "sender": "120363415630467765@g.us",
+      "text": "*🔹 Pair Code:*\n```6SEV1JNA```\n\n🔹 *How to Link:* \n\n1. Open WhatsApp on your phone.\n\n2. Go to *Settings > Linked Devices*.\n\n3. Tap *Link a Device* then *Link with Phone*.\n\n4. Enter the pair code above.\n\n5. Alternatively, tap the WhatsApp notification sent to your phone.\n\n\n⏳ *Code expires in 2 minutes!*",
+      "timestamp": {
+        "low": 1742712984,
+        "high": 0,
+        "unsigned": true
+      }
+    },
+    "3C51A1E9B0D458E92DE17E0D40CBAA51": {
+      "sender": "2348140984100@s.whatsapp.net",
+      "text": "No issues",
+      "timestamp": 1742713089
+    },
+    "7371C0259BC533E5DF0979734FA8678E": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".time",
+      "timestamp": 1742713313
+    },
+    "3EB0B26C8DDE102A3D1F60": {
+      "sender": "120363415630467765@g.us",
+      "text": "*🔹 CURRENT TIME 🔹*\n\n🗓️ *ᴅᴀʏ:* Sunday\n\n⌚ *ᴛɪᴍᴇ:* 09:01:55\n\n📆 *ᴅᴀᴛᴇ:* March 23, 2025\n\n⏰ *ᴛɪᴍᴇᴢᴏɴᴇ:* Africa/Harare",
+      "timestamp": {
+        "low": 1742713315,
+        "high": 0,
+        "unsigned": true
+      }
+    }
+  },
+  "120363372230280282@g.us": {
+    "6843CF884941D92333D512A82733A9F6": {
+      "sender": "254105269466@s.whatsapp.net",
+      "text": "🫴🫴🫴🫴😂",
+      "timestamp": 1742664535
+    },
+    "1102BC36266A5EDDA39902575039AE70": {
+      "sender": "263788521064@s.whatsapp.net",
+      "text": "Thanks to this mtf life in Zim is a living hell l think we have the worst president ever even when they remove him from being president this nigga will be the wealthiest nigga on the planet Elon Mask won't stand a chance",
+      "timestamp": 1742665230
+    },
+    "0E57EF20BEEC48C5407D0D835A674174": {
+      "sender": "263780166288@s.whatsapp.net",
+      "text": "Yah he should just go die",
+      "timestamp": 1742694792
+    },
+    "8C6C6834F23AB1F25B46784169106795": {
+      "sender": "263714757857@s.whatsapp.net",
+      "text": "Ok what is malvin xd lacking",
+      "timestamp": 1742696169
+    }
+  },
+  "2347018347083@s.whatsapp.net": {
+    "90B15086B567176D8EB08EE3BA26B26E": {
+      "sender": "2347018347083@s.whatsapp.net",
+      "text": ".menu",
+      "timestamp": 1742653720
+    },
+    "3EB07E2E2B0C93A34309D3": {
+      "sender": "2347018347083@s.whatsapp.net",
+      "text": "ʟᴏᴀᴅɪɴɢ ʜᴀʙᴀᴇᴋ-V1.0.0...",
+      "timestamp": {
+        "low": 1742653721,
+        "high": 0,
+        "unsigned": true
+      }
+    },
+    "3EB085D6FC0FDF840F7F5A": {
+      "sender": "2347018347083@s.whatsapp.net",
+      "text": "╭┉╾♰ ◈ *HABAEK-V1.0.0* ♔‌\n┊ *ᴏᴡɴᴇʀ* : ♰♔‌ʟᴏʀᴅ ʜᴀʙᴀᴇᴋ♔‌♰\n┇ *ᴘʀᴇғɪx* : [ . ]\n┇ *ʜᴏsᴛ* : linux\n┇ *ᴘʟᴜɢɪɴs* : 261\n┇ *ᴍᴏᴅᴇ* : Public\n┇ *ᴠᴇʀsɪᴏɴ* : 1.0.0\n┇ *sᴘᴇᴇᴅ* : 33.1090 ms\n┇ *ᴜsᴀɢᴇ* : 60 MB of 126 GB\n┇ *ʀᴀᴍ:* [█████████░] 93%\n╰┉┉┉♰ \n‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎\n╭┉╾♰ ♔‌  *AI MENU* ◈\n┊☠️ habaek\n┊☠️ dalle\n┊☠️ habaek\n┊☠️ generate\n┊☠️ dbrx\n┊☠️ deepseek\n┊☠️ deepseekllm\n┊☠️ doppleai\n┊☠️ gpt\n┊☠️ gpt2\n┊☠️ imagen\n┊☠️ imagine\n┊☠️ letterai\n┊☠️ llama\n┊☠️ metaai\n┊☠️ mistral\n┊☠️ photoai\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *AUDIO MENU* ◈\n┊☠️ bass\n┊☠️ blown\n┊☠️ deep\n┊☠️ earrape\n┊☠️ reverse\n┊☠️ robot\n┊☠️ volaudio\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *DOWNLOAD MENU* ◈\n┊☠️ apk\n┊☠️ download\n┊☠️ facebook\n┊☠️ gdrive\n┊☠️ gitclone\n┊☠️ image\n┊☠️ instagram\n┊☠️ itunes\n┊☠️ mediafire\n┊☠️ pinterest\n┊☠️ play\n┊☠️ playdoc\n┊☠️ ringtone\n┊☠️ savestatus\n┊☠️ tiktok\n┊☠️ tiktokaudio\n┊☠️ video\n┊☠️ videodoc\n┊☠️ videodoc\n┊☠️ xvideos\n┊☠️ ytmp3\n┊☠️ ytmp3doc\n┊☠️ ytmp4\n┊☠️ ytmp4doc\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *EPHOTO360 MENU* ◈\n┊☠️ 1917style\n┊☠️ advancedglow\n┊☠️ blackpinklogo\n┊☠️ blackpinkstyle\n┊☠️ cartoonstyle\n┊☠️ deadpool\n┊☠️ deletingtext\n┊☠️ dragonball\n┊☠️ effectclouds\n┊☠️ flag3dtext\n┊☠️ flagtext\n┊☠️ freecreate\n┊☠️ galaxystyle\n┊☠️ galaxywallpaper\n┊☠️ glitchtext\n┊☠️ glowingtext\n┊☠️ gradienttext\n┊☠️ graffiti\n┊☠️ incandescent\n┊☠️ lighteffects\n┊☠️ logomaker\n┊☠️ luxurygold\n┊☠️ makingneon\n┊☠️ matrix\n┊☠️ multicoloredneon\n┊☠️ neonglitch\n┊☠️ papercutstyle\n┊☠️ pixelglitch\n┊☠️ royaltext\n┊☠️ sand\n┊☠️ summerbeach\n┊☠️ topography\n┊☠️ typography\n┊☠️ watercolortext\n┊☠️ writetext\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *FUN MENU* ◈\n┊☠️ dare\n┊☠️ fact\n┊☠️ jokes\n┊☠️ memes\n┊☠️ quotes\n┊☠️ trivia\n┊☠️ truth\n┊☠️ truthdetector\n┊☠️ xxqc\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *GROUP MENU* ◈\n┊☠️ add\n┊☠️ antibadword\n┊☠️ antibot\n┊☠️ antilink\n┊☠️ antilinkgc\n┊☠️ approveall\n┊☠️ close\n┊☠️ closetime\n┊☠️ delppgroup\n┊☠️ demote\n┊☠️ disapproveall\n┊☠️ editsettings\n┊☠️ link\n┊☠️ hidetag\n┊☠️ invite\n┊☠️ kick\n┊☠️ listonline\n┊☠️ listrequests\n┊☠️ mediatag\n┊☠️ open\n┊☠️ opentime\n┊☠️ poll\n┊☠️ promote\n┊☠️ resetlink\n┊☠️ setdesc\n┊☠️ setgroupname\n┊☠️ setppgroup\n┊☠️ tagadmin\n┊☠️ tagall\n┊☠️ totalmembers\n┊☠️ userid\n┊☠️ vcf\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *HEROKU MENU* ◈\n┊☠️ addvar\n┊☠️ delvar\n┊☠️ getvar\n┊☠️ setbotname\n┊☠️ setname\n┊☠️ setownernumber\n┊☠️ setvar\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *IMAGE MENU* ◈\n┊☠️ remini\n┊☠️ wallpaper\n┊☠️ wikimedia\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *OTHER MENU* ◈\n┊☠️ botstatus\n┊☠️ pair\n┊☠️ ping\n┊☠️ runtime\n┊☠️ repo\n┊☠️ time\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *OWNER MENU* ◈\n┊☠️ block\n┊☠️ delete\n┊☠️ deljunk\n┊☠️ disk\n┊☠️ dlvo\n┊☠️ gcaddprivacy\n┊☠️ getsession\n┊☠️ groupid\n┊☠️ hostip\n┊☠️ join\n┊☠️ lastseen\n┊☠️ leave\n┊☠️ listbadword\n┊☠️ listignorelist\n┊☠️ listsudo\n┊☠️ modestatus\n┊☠️ online\n┊☠️ owner\n┊☠️ ppprivacy\n┊☠️ react\n┊☠️ readreceipts\n┊☠️ reportbug\n┊☠️ request\n┊☠️ restart\n┊☠️ setbio\n┊☠️ setprofilepic\n┊☠️ toviewonce\n┊☠️ unblock\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *REACTION MENU* ◈\n┊☠️ 8ball\n┊☠️ avatar\n┊☠️ awoo\n┊☠️ bite\n┊☠️ blush\n┊☠️ bonk\n┊☠️ bully\n┊☠️ cringe\n┊☠️ cry\n┊☠️ cuddle\n┊☠️ dance\n┊☠️ feed\n┊☠️ foxgirl\n┊☠️ gecg\n┊☠️ glomp\n┊☠️ goose\n┊☠️ handhold\n┊☠️ happy\n┊☠️ highfive\n┊☠️ hug\n┊☠️ kill\n┊☠️ kiss\n┊☠️ lick\n┊☠️ lizard\n┊☠️ meow\n┊☠️ nom\n┊☠️ pat\n┊☠️ poke\n┊☠️ shinobu\n┊☠️ slap\n┊☠️ smile\n┊☠️ smug\n┊☠️ spank\n┊☠️ tickle\n┊☠️ wave\n┊☠️ wink\n┊☠️ woof\n┊☠️ yeet\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *RELIGION MENU* ◈\n┊☠️ bible\n┊☠️ quran\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *SEARCH MENU* ◈\n┊☠️ define\n┊☠️ define2\n┊☠️ imdb\n┊☠️ lyrics\n┊☠️ shazam\n┊☠️ weather\n┊☠️ yts\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *SETTINGS MENU* ◈\n┊☠️ addbadword\n┊☠️ addignorelist\n┊☠️ addsudo\n┊☠️ alwaysonline\n┊☠️ anticall\n┊☠️ antidelete\n┊☠️ antiedit\n┊☠️ autobio\n┊☠️ autoreactstatus\n┊☠️ autoviewstatus\n┊☠️ autoreact\n┊☠️ autoread\n┊☠️ autotype\n┊☠️ autorecord\n┊☠️ autorecordtyping\n┊☠️ chatbot\n┊☠️ deletebadword\n┊☠️ delignorelist\n┊☠️ delsudo\n┊☠️ mode\n┊☠️ setmenu\n┊☠️ setprefix\n┊☠️ setstatusemoji\n┊☠️ welcome\n┊☠️ getsettings\n┊☠️ resetsetting\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *TOOLS MENU* ◈\n┊☠️ browse\n┊☠️ calculate\n┊☠️ emojimix\n┊☠️ fliptext\n┊☠️ gsmarena\n┊☠️ genpass\n┊☠️ device\n┊☠️ obfuscate\n┊☠️ qrcode\n┊☠️ say\n┊☠️ ssweb\n┊☠️ sswebpc\n┊☠️ sswebtab\n┊☠️ sticker\n┊☠️ fancy\n┊☠️ take\n┊☠️ tinyurl\n┊☠️ toimage\n┊☠️ tourl\n┊☠️ translate\n┊☠️ vcc\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *VIDEO MENU* ◈\n┊☠️ volvideo\n╰┉┉┉♰ \n\n",
+      "timestamp": {
+        "low": 1742653723,
+        "high": 0,
+        "unsigned": true
+      }
+    },
+    "6293DE3205ADD65613DD034DE08A491C": {
+      "sender": "2347018347083@s.whatsapp.net",
+      "text": "Dope",
+      "timestamp": 1742653738
+    },
+    "798F52B0A070059329AE295464957AB8": {
+      "sender": "2347018347083@s.whatsapp.net",
+      "text": "As always",
+      "timestamp": 1742660726
+    },
+    "3703B703A781C5DD16F1E929835AB6B5": {
+      "sender": "2347018347083@s.whatsapp.net",
+      "text": "I won't publish it on githun",
+      "timestamp": 1742661598
+    },
+    "3DEBE5B0EF0122B0FC74797107EA3567": {
+      "sender": "2347018347083@s.whatsapp.net",
+      "text": "Send the file so I can deploy",
+      "timestamp": 1742667811
+    },
+    "9D6E6529EAF91580D4A3D3C2DF65634A": {
+      "sender": "2347018347083@s.whatsapp.net",
+      "text": "Nice idea",
+      "timestamp": 1742667816
+    },
+    "9C9687D8E2181FD61B9866525F1757A3": {
+      "sender": "2347018347083@s.whatsapp.net",
+      "text": "I will send but don't share it",
+      "timestamp": 1742668493
+    },
+    "B7E0171433B415367ECC76F817EBA4EA": {
+      "sender": "2347018347083@s.whatsapp.net",
+      "text": "No problem man",
+      "timestamp": 1742672583
+    }
+  },
+  "status@broadcast": {
+    "04D481DC090C6B3B5699F59C175FD9E7": {
+      "sender": "2347018347083@s.whatsapp.net",
+      "text": "🧍🏾‍♂️",
+      "timestamp": 1742668862
+    },
+    "31065F3D3C0D8A4A9389F7B50DD06504": {
+      "sender": "2347018347083@s.whatsapp.net",
+      "text": "I declare blessing upon my life 🙇🏾‍♂️",
+      "timestamp": 1742687428
+    }
+  },
+  "263777461443@s.whatsapp.net": {
+    "7D0CBEFD3076F954E2970F7D9E135241": {
+      "sender": "263777461443@s.whatsapp.net",
+      "text": ".menu",
+      "timestamp": 1742669323
+    },
+    "3EB0601AB243A8252CC66A": {
+      "sender": "263777461443@s.whatsapp.net",
+      "text": "ʟᴏᴀᴅɪɴɢ ʜᴀʙᴀᴇᴋ-V1.0.0...",
+      "timestamp": {
+        "low": 1742669324,
+        "high": 0,
+        "unsigned": true
+      }
+    },
+    "3EB0A7FD81308B075FF554": {
+      "sender": "263777461443@s.whatsapp.net",
+      "text": "╭┉╾♰ ◈ *HABAEK-V1.0.0* ♔‌\n┊ *ᴏᴡɴᴇʀ* : ♰♔‌ʟᴏʀᴅ ʜᴀʙᴀᴇᴋ♔‌♰\n┇ *ᴘʀᴇғɪx* : [ . ]\n┇ *ʜᴏsᴛ* : linux\n┇ *ᴘʟᴜɢɪɴs* : 261\n┇ *ᴍᴏᴅᴇ* : Public\n┇ *ᴠᴇʀsɪᴏɴ* : 1.0.0\n┇ *sᴘᴇᴇᴅ* : 947.2491 ms\n┇ *ᴜsᴀɢᴇ* : 64 MB of 126 GB\n┇ *ʀᴀᴍ:* [██████████] 95%\n╰┉┉┉♰ \n‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎\n╭┉╾♰ ♔‌  *AI MENU* ◈\n┊☠️ habaek\n┊☠️ dalle\n┊☠️ habaek\n┊☠️ generate\n┊☠️ dbrx\n┊☠️ deepseek\n┊☠️ deepseekllm\n┊☠️ doppleai\n┊☠️ gpt\n┊☠️ gpt2\n┊☠️ imagen\n┊☠️ imagine\n┊☠️ letterai\n┊☠️ llama\n┊☠️ metaai\n┊☠️ mistral\n┊☠️ photoai\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *AUDIO MENU* ◈\n┊☠️ bass\n┊☠️ blown\n┊☠️ deep\n┊☠️ earrape\n┊☠️ reverse\n┊☠️ robot\n┊☠️ volaudio\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *DOWNLOAD MENU* ◈\n┊☠️ apk\n┊☠️ download\n┊☠️ facebook\n┊☠️ gdrive\n┊☠️ gitclone\n┊☠️ image\n┊☠️ instagram\n┊☠️ itunes\n┊☠️ mediafire\n┊☠️ pinterest\n┊☠️ play\n┊☠️ playdoc\n┊☠️ ringtone\n┊☠️ savestatus\n┊☠️ tiktok\n┊☠️ tiktokaudio\n┊☠️ video\n┊☠️ videodoc\n┊☠️ videodoc\n┊☠️ xvideos\n┊☠️ ytmp3\n┊☠️ ytmp3doc\n┊☠️ ytmp4\n┊☠️ ytmp4doc\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *EPHOTO360 MENU* ◈\n┊☠️ 1917style\n┊☠️ advancedglow\n┊☠️ blackpinklogo\n┊☠️ blackpinkstyle\n┊☠️ cartoonstyle\n┊☠️ deadpool\n┊☠️ deletingtext\n┊☠️ dragonball\n┊☠️ effectclouds\n┊☠️ flag3dtext\n┊☠️ flagtext\n┊☠️ freecreate\n┊☠️ galaxystyle\n┊☠️ galaxywallpaper\n┊☠️ glitchtext\n┊☠️ glowingtext\n┊☠️ gradienttext\n┊☠️ graffiti\n┊☠️ incandescent\n┊☠️ lighteffects\n┊☠️ logomaker\n┊☠️ luxurygold\n┊☠️ makingneon\n┊☠️ matrix\n┊☠️ multicoloredneon\n┊☠️ neonglitch\n┊☠️ papercutstyle\n┊☠️ pixelglitch\n┊☠️ royaltext\n┊☠️ sand\n┊☠️ summerbeach\n┊☠️ topography\n┊☠️ typography\n┊☠️ watercolortext\n┊☠️ writetext\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *FUN MENU* ◈\n┊☠️ dare\n┊☠️ fact\n┊☠️ jokes\n┊☠️ memes\n┊☠️ quotes\n┊☠️ trivia\n┊☠️ truth\n┊☠️ truthdetector\n┊☠️ xxqc\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *GROUP MENU* ◈\n┊☠️ add\n┊☠️ antibadword\n┊☠️ antibot\n┊☠️ antilink\n┊☠️ antilinkgc\n┊☠️ approveall\n┊☠️ close\n┊☠️ closetime\n┊☠️ delppgroup\n┊☠️ demote\n┊☠️ disapproveall\n┊☠️ editsettings\n┊☠️ link\n┊☠️ hidetag\n┊☠️ invite\n┊☠️ kick\n┊☠️ listonline\n┊☠️ listrequests\n┊☠️ mediatag\n┊☠️ open\n┊☠️ opentime\n┊☠️ poll\n┊☠️ promote\n┊☠️ resetlink\n┊☠️ setdesc\n┊☠️ setgroupname\n┊☠️ setppgroup\n┊☠️ tagadmin\n┊☠️ tagall\n┊☠️ totalmembers\n┊☠️ userid\n┊☠️ vcf\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *HEROKU MENU* ◈\n┊☠️ addvar\n┊☠️ delvar\n┊☠️ getvar\n┊☠️ setbotname\n┊☠️ setname\n┊☠️ setownernumber\n┊☠️ setvar\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *IMAGE MENU* ◈\n┊☠️ remini\n┊☠️ wallpaper\n┊☠️ wikimedia\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *OTHER MENU* ◈\n┊☠️ botstatus\n┊☠️ pair\n┊☠️ ping\n┊☠️ runtime\n┊☠️ repo\n┊☠️ time\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *OWNER MENU* ◈\n┊☠️ block\n┊☠️ delete\n┊☠️ deljunk\n┊☠️ disk\n┊☠️ dlvo\n┊☠️ gcaddprivacy\n┊☠️ getsession\n┊☠️ groupid\n┊☠️ hostip\n┊☠️ join\n┊☠️ lastseen\n┊☠️ leave\n┊☠️ listbadword\n┊☠️ listignorelist\n┊☠️ listsudo\n┊☠️ modestatus\n┊☠️ online\n┊☠️ owner\n┊☠️ ppprivacy\n┊☠️ react\n┊☠️ readreceipts\n┊☠️ reportbug\n┊☠️ request\n┊☠️ restart\n┊☠️ setbio\n┊☠️ setprofilepic\n┊☠️ toviewonce\n┊☠️ unblock\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *REACTION MENU* ◈\n┊☠️ 8ball\n┊☠️ avatar\n┊☠️ awoo\n┊☠️ bite\n┊☠️ blush\n┊☠️ bonk\n┊☠️ bully\n┊☠️ cringe\n┊☠️ cry\n┊☠️ cuddle\n┊☠️ dance\n┊☠️ feed\n┊☠️ foxgirl\n┊☠️ gecg\n┊☠️ glomp\n┊☠️ goose\n┊☠️ handhold\n┊☠️ happy\n┊☠️ highfive\n┊☠️ hug\n┊☠️ kill\n┊☠️ kiss\n┊☠️ lick\n┊☠️ lizard\n┊☠️ meow\n┊☠️ nom\n┊☠️ pat\n┊☠️ poke\n┊☠️ shinobu\n┊☠️ slap\n┊☠️ smile\n┊☠️ smug\n┊☠️ spank\n┊☠️ tickle\n┊☠️ wave\n┊☠️ wink\n┊☠️ woof\n┊☠️ yeet\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *RELIGION MENU* ◈\n┊☠️ bible\n┊☠️ quran\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *SEARCH MENU* ◈\n┊☠️ define\n┊☠️ define2\n┊☠️ imdb\n┊☠️ lyrics\n┊☠️ shazam\n┊☠️ weather\n┊☠️ yts\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *SETTINGS MENU* ◈\n┊☠️ addbadword\n┊☠️ addignorelist\n┊☠️ addsudo\n┊☠️ alwaysonline\n┊☠️ anticall\n┊☠️ antidelete\n┊☠️ antiedit\n┊☠️ autobio\n┊☠️ autoreactstatus\n┊☠️ autoviewstatus\n┊☠️ autoreact\n┊☠️ autoread\n┊☠️ autotype\n┊☠️ autorecord\n┊☠️ autorecordtyping\n┊☠️ chatbot\n┊☠️ deletebadword\n┊☠️ delignorelist\n┊☠️ delsudo\n┊☠️ mode\n┊☠️ setmenu\n┊☠️ setprefix\n┊☠️ setstatusemoji\n┊☠️ welcome\n┊☠️ getsettings\n┊☠️ resetsetting\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *TOOLS MENU* ◈\n┊☠️ browse\n┊☠️ calculate\n┊☠️ emojimix\n┊☠️ fliptext\n┊☠️ gsmarena\n┊☠️ genpass\n┊☠️ device\n┊☠️ obfuscate\n┊☠️ qrcode\n┊☠️ say\n┊☠️ ssweb\n┊☠️ sswebpc\n┊☠️ sswebtab\n┊☠️ sticker\n┊☠️ fancy\n┊☠️ take\n┊☠️ tinyurl\n┊☠️ toimage\n┊☠️ tourl\n┊☠️ translate\n┊☠️ vcc\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *VIDEO MENU* ◈\n┊☠️ volvideo\n╰┉┉┉♰ \n\n",
+      "timestamp": {
+        "low": 1742669327,
+        "high": 0,
+        "unsigned": true
+      }
+    }
+  },
+  "263712473551@s.whatsapp.net": {
+    "B0D44584A1D12AF81B59F2A916E58BBA": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".fancy LORD HABAEK",
+      "timestamp": 1742670937
+    },
+    "3EB0F9DB124BB9982E6234": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "Styles for LORD HABAEK\n\n□ *Circled* : ⓁⓄⓇⒹ ⒽⒶⒷⒶⒺⓀ\n\n□ *Circled (neg)* : 🅛🅞🅡🅓 🅗🅐🅑🅐🅔🅚\n\n□ *Fullwidth* : ＬＯＲＤ ＨＡＢＡＥＫ\n\n□ *Math bold* : 𝐋𝐎𝐑𝐃 𝐇𝐀𝐁𝐀𝐄𝐊\n\n□ *Math bold Fraktur* : 𝕷𝕺𝕽𝕯 𝕳𝕬𝕭𝕬𝕰𝕶\n\n□ *Math bold italic* : 𝑳𝑶𝑹𝑫 𝑯𝑨𝑩𝑨𝑬𝑲\n\n□ *Math bold script* : 𝓛𝓞𝓡𝓓 𝓗𝓐𝓑𝓐𝓔𝓚\n\n□ *Math double-struck* : 𝕃𝕆ℝ𝔻 ℍ𝔸𝔹𝔸𝔼𝕂\n\n□ *Math monospace* : 𝙻𝙾𝚁𝙳 𝙷𝙰𝙱𝙰𝙴𝙺\n\n□ *Math sans* : 𝖫𝖮𝖱𝖣 𝖧𝖠𝖡𝖠𝖤𝖪\n\n□ *Math sans bold* : 𝗟𝗢𝗥𝗗 𝗛𝗔𝗕𝗔𝗘𝗞\n\n□ *Math sans bold italic* : 𝙇𝙊𝙍𝘿 𝙃𝘼𝘽𝘼𝙀𝙆\n\n□ *Math sans italic* : 𝘓𝘖𝘙𝘋 𝘏𝘈𝘉𝘈𝘌𝘒\n\n□ *Parenthesized* : ⒧⒪⒭⒟ ⒣⒜⒝⒜⒠⒦\n\n□ *Regional Indicator* : 🇱🇴🇷🇩 🇭🇦🇧🇦🇪🇰\n\n□ *Squared* : 🄻🄾🅁🄳 🄷🄰🄱🄰🄴🄺\n\n□ *Squared (neg)* : 🅻🅾🆁🅳 🅷🅰🅱🅰🅴🅺\n\n□ *Tag* : 󠁌󠁏󠁒󠁄󠀠󠁈󠁁󠁂󠁁󠁅󠁋\n\n□ *A-cute* : ĹŐŔD HÁBÁÉḰ\n\n□ *CJK+Thai* : ﾚo尺d んﾑ乃ﾑ乇ズ\n\n□ *Curvy 1* : ɭѻɼɗ ɦค๒คﻉᛕ\n\n□ *Curvy 2* : ℓσя∂ нαвαєк\n\n□ *Curvy 3* : ɭ๏г๔ ђค๒คєк\n\n□ *Faux Cyrillic* : LФЯↁ НДБДЄЌ\n\n□ *Faux Ethiopic* : ረዐዪዕ ዘልጌልቿጕ\n\n□ *Math Fraktur* : 𝔏𝔒ℜ𝔇 ℌ𝔄𝔅𝔄𝔈𝔎\n\n□ *Rock Dots* : ḶÖṚḊ ḦÄḄÄЁḲ\n\n□ *Small Caps* : ʟᴏʀᴅ ʜᴀʙᴀᴇᴋ\n\n□ *Stroked* : ŁØɌĐ ĦȺɃȺɆꝀ\n\n□ *Subscript* : ₗₒᵣD ₕₐBₐₑₖ\n\n□ *Superscript* : ᴸᴼᴿᴰ ᴴᴬᴮᴬᴱᴷ\n\n□ *Inverted* : ⅂Oꓤꓷ ɥꓯꓭꓯƎꓘ\n\n□ *Inverted* : ꓘƎꓯꓭꓯɥ ꓷꓤO⅂\n\n□ *Reversed* : ⅃Oᴙb HAdAƎK\n\n□ *Reversed* : KƎAdAH bᴙO⅃\n\n",
+      "timestamp": {
+        "low": 1742670939,
+        "high": 0,
+        "unsigned": true
+      }
+    },
+    "7BF8C18D12EDD88DBB46CFBF24595C63": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".owner",
+      "timestamp": 1742671122
+    },
+    "070EB118BBE7A7C622E6031B23621CA6": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".menu",
+      "timestamp": 1742671129
+    },
+    "3EB088AA588B82955C4C8B": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "ʟᴏᴀᴅɪɴɢ ʜᴀʙᴀᴇᴋ-V1.0.0...",
+      "timestamp": {
+        "low": 1742671131,
+        "high": 0,
+        "unsigned": true
+      }
+    },
+    "3EB0F193BB8E4871BE1E1C": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "╭┉╾♰ ◈ *HABAEK-V1.0.0* ♔‌\n┊ *ᴏᴡɴᴇʀ* : ♰♔‌ʟᴏʀᴅ ʜᴀʙᴀᴇᴋ♔‌♰\n┇ *ᴘʀᴇғɪx* : [ . ]\n┇ *ʜᴏsᴛ* : linux\n┇ *ᴘʟᴜɢɪɴs* : 261\n┇ *ᴍᴏᴅᴇ* : Public\n┇ *ᴠᴇʀsɪᴏɴ* : 1.0.0\n┇ *sᴘᴇᴇᴅ* : 867.8993 ms\n┇ *ᴜsᴀɢᴇ* : 65 MB of 126 GB\n┇ *ʀᴀᴍ:* [█████████░] 94%\n╰┉┉┉♰ \n‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎\n╭┉╾♰ ♔‌  *AI MENU* ◈\n┊☠️ habaek\n┊☠️ dalle\n┊☠️ habaek\n┊☠️ generate\n┊☠️ dbrx\n┊☠️ deepseek\n┊☠️ deepseekllm\n┊☠️ doppleai\n┊☠️ gpt\n┊☠️ gpt2\n┊☠️ imagen\n┊☠️ imagine\n┊☠️ letterai\n┊☠️ llama\n┊☠️ metaai\n┊☠️ mistral\n┊☠️ photoai\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *AUDIO MENU* ◈\n┊☠️ bass\n┊☠️ blown\n┊☠️ deep\n┊☠️ earrape\n┊☠️ reverse\n┊☠️ robot\n┊☠️ volaudio\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *DOWNLOAD MENU* ◈\n┊☠️ apk\n┊☠️ download\n┊☠️ facebook\n┊☠️ gdrive\n┊☠️ gitclone\n┊☠️ image\n┊☠️ instagram\n┊☠️ itunes\n┊☠️ mediafire\n┊☠️ pinterest\n┊☠️ play\n┊☠️ playdoc\n┊☠️ ringtone\n┊☠️ savestatus\n┊☠️ tiktok\n┊☠️ tiktokaudio\n┊☠️ video\n┊☠️ videodoc\n┊☠️ videodoc\n┊☠️ xvideos\n┊☠️ ytmp3\n┊☠️ ytmp3doc\n┊☠️ ytmp4\n┊☠️ ytmp4doc\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *EPHOTO360 MENU* ◈\n┊☠️ 1917style\n┊☠️ advancedglow\n┊☠️ blackpinklogo\n┊☠️ blackpinkstyle\n┊☠️ cartoonstyle\n┊☠️ deadpool\n┊☠️ deletingtext\n┊☠️ dragonball\n┊☠️ effectclouds\n┊☠️ flag3dtext\n┊☠️ flagtext\n┊☠️ freecreate\n┊☠️ galaxystyle\n┊☠️ galaxywallpaper\n┊☠️ glitchtext\n┊☠️ glowingtext\n┊☠️ gradienttext\n┊☠️ graffiti\n┊☠️ incandescent\n┊☠️ lighteffects\n┊☠️ logomaker\n┊☠️ luxurygold\n┊☠️ makingneon\n┊☠️ matrix\n┊☠️ multicoloredneon\n┊☠️ neonglitch\n┊☠️ papercutstyle\n┊☠️ pixelglitch\n┊☠️ royaltext\n┊☠️ sand\n┊☠️ summerbeach\n┊☠️ topography\n┊☠️ typography\n┊☠️ watercolortext\n┊☠️ writetext\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *FUN MENU* ◈\n┊☠️ dare\n┊☠️ fact\n┊☠️ jokes\n┊☠️ memes\n┊☠️ quotes\n┊☠️ trivia\n┊☠️ truth\n┊☠️ truthdetector\n┊☠️ xxqc\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *GROUP MENU* ◈\n┊☠️ add\n┊☠️ antibadword\n┊☠️ antibot\n┊☠️ antilink\n┊☠️ antilinkgc\n┊☠️ approveall\n┊☠️ close\n┊☠️ closetime\n┊☠️ delppgroup\n┊☠️ demote\n┊☠️ disapproveall\n┊☠️ editsettings\n┊☠️ link\n┊☠️ hidetag\n┊☠️ invite\n┊☠️ kick\n┊☠️ listonline\n┊☠️ listrequests\n┊☠️ mediatag\n┊☠️ open\n┊☠️ opentime\n┊☠️ poll\n┊☠️ promote\n┊☠️ resetlink\n┊☠️ setdesc\n┊☠️ setgroupname\n┊☠️ setppgroup\n┊☠️ tagadmin\n┊☠️ tagall\n┊☠️ totalmembers\n┊☠️ userid\n┊☠️ vcf\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *HEROKU MENU* ◈\n┊☠️ addvar\n┊☠️ delvar\n┊☠️ getvar\n┊☠️ setbotname\n┊☠️ setname\n┊☠️ setownernumber\n┊☠️ setvar\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *IMAGE MENU* ◈\n┊☠️ remini\n┊☠️ wallpaper\n┊☠️ wikimedia\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *OTHER MENU* ◈\n┊☠️ botstatus\n┊☠️ pair\n┊☠️ ping\n┊☠️ runtime\n┊☠️ repo\n┊☠️ time\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *OWNER MENU* ◈\n┊☠️ block\n┊☠️ delete\n┊☠️ deljunk\n┊☠️ disk\n┊☠️ dlvo\n┊☠️ gcaddprivacy\n┊☠️ getsession\n┊☠️ groupid\n┊☠️ hostip\n┊☠️ join\n┊☠️ lastseen\n┊☠️ leave\n┊☠️ listbadword\n┊☠️ listignorelist\n┊☠️ listsudo\n┊☠️ modestatus\n┊☠️ online\n┊☠️ owner\n┊☠️ ppprivacy\n┊☠️ react\n┊☠️ readreceipts\n┊☠️ reportbug\n┊☠️ request\n┊☠️ restart\n┊☠️ setbio\n┊☠️ setprofilepic\n┊☠️ toviewonce\n┊☠️ unblock\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *REACTION MENU* ◈\n┊☠️ 8ball\n┊☠️ avatar\n┊☠️ awoo\n┊☠️ bite\n┊☠️ blush\n┊☠️ bonk\n┊☠️ bully\n┊☠️ cringe\n┊☠️ cry\n┊☠️ cuddle\n┊☠️ dance\n┊☠️ feed\n┊☠️ foxgirl\n┊☠️ gecg\n┊☠️ glomp\n┊☠️ goose\n┊☠️ handhold\n┊☠️ happy\n┊☠️ highfive\n┊☠️ hug\n┊☠️ kill\n┊☠️ kiss\n┊☠️ lick\n┊☠️ lizard\n┊☠️ meow\n┊☠️ nom\n┊☠️ pat\n┊☠️ poke\n┊☠️ shinobu\n┊☠️ slap\n┊☠️ smile\n┊☠️ smug\n┊☠️ spank\n┊☠️ tickle\n┊☠️ wave\n┊☠️ wink\n┊☠️ woof\n┊☠️ yeet\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *RELIGION MENU* ◈\n┊☠️ bible\n┊☠️ quran\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *SEARCH MENU* ◈\n┊☠️ define\n┊☠️ define2\n┊☠️ imdb\n┊☠️ lyrics\n┊☠️ shazam\n┊☠️ weather\n┊☠️ yts\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *SETTINGS MENU* ◈\n┊☠️ addbadword\n┊☠️ addignorelist\n┊☠️ addsudo\n┊☠️ alwaysonline\n┊☠️ anticall\n┊☠️ antidelete\n┊☠️ antiedit\n┊☠️ autobio\n┊☠️ autoreactstatus\n┊☠️ autoviewstatus\n┊☠️ autoreact\n┊☠️ autoread\n┊☠️ autotype\n┊☠️ autorecord\n┊☠️ autorecordtyping\n┊☠️ chatbot\n┊☠️ deletebadword\n┊☠️ delignorelist\n┊☠️ delsudo\n┊☠️ mode\n┊☠️ setmenu\n┊☠️ setprefix\n┊☠️ setstatusemoji\n┊☠️ welcome\n┊☠️ getsettings\n┊☠️ resetsetting\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *TOOLS MENU* ◈\n┊☠️ browse\n┊☠️ calculate\n┊☠️ emojimix\n┊☠️ fliptext\n┊☠️ gsmarena\n┊☠️ genpass\n┊☠️ device\n┊☠️ obfuscate\n┊☠️ qrcode\n┊☠️ say\n┊☠️ ssweb\n┊☠️ sswebpc\n┊☠️ sswebtab\n┊☠️ sticker\n┊☠️ fancy\n┊☠️ take\n┊☠️ tinyurl\n┊☠️ toimage\n┊☠️ tourl\n┊☠️ translate\n┊☠️ vcc\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *VIDEO MENU* ◈\n┊☠️ volvideo\n╰┉┉┉♰ \n\n",
+      "timestamp": {
+        "low": 1742671134,
+        "high": 0,
+        "unsigned": true
+      }
+    },
+    "D17A942CA7F015ED5FFB6B4743DB206B": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".play with you by vybez kartel",
+      "timestamp": 1742671195
+    },
+    "3EB069A60A505FE68C3FBB": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "Error: Request failed with status code 504",
+      "timestamp": {
+        "low": 1742671260,
+        "high": 0,
+        "unsigned": true
+      }
+    },
+    "70035605ACBFB4F965CF51087E1F530A": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".play munyaviri by holy ten",
+      "timestamp": 1742671336
+    },
+    "3EB0EB9BCE8D852E91E9F7": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "Error: Request failed with status code 502",
+      "timestamp": {
+        "low": 1742671344,
+        "high": 0,
+        "unsigned": true
+      }
+    },
+    "D5E335BD259B6E2D1157BD7C2E51F5C7": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".song holy ten munyaviri",
+      "timestamp": 1742671358
+    },
+    "3EB0CF495BD68A29D80DFB": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "Error: Request failed with status code 502",
+      "timestamp": {
+        "low": 1742671365,
+        "high": 0,
+        "unsigned": true
+      }
+    },
+    "70E0583A846977A2993637284DA73013": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".video munyaviri by holy ten",
+      "timestamp": 1742671387
+    },
+    "28B241B6EEB6ADCD79E3244437D2E8FF": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".facebook https://www.facebook.com/share/r/14cpVU2kKi/",
+      "timestamp": 1742675845
+    },
+    "447DF6F21BA441BFA6CF7F3A51B835E2": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".habaek how can i create an app from a website",
+      "timestamp": 1742711475
+    },
+    "3EB020EE0A3FB063929B7B": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "\nTo create an app from a website, you can use frameworks like React Native, Flutter, or Ionic for hybrid apps, or consider no-code platforms like AppMySite or WebToApp. These tools allow you to convert your website into a mobile app for both Android and iOS with minimal coding required. **Using App Builders**\n- **AppMySite**: \n  - A no-code platform that allows you to create an app in minutes.\n  - Supports various types of websites, including WordPress and WooCommerce.\n  - Offers features like push notifications, user analytics, and in-app purchases.\n  - You can create a native app without writing any code.\n- **Wix Mobile App Builder**:\n  - Integrates directly with your existing Wix website.\n  - Allows customization of app layout, theme, and content.\n  - Provides a preview feature to see how the app will look on mobile devices.\n  - Handles submission to the App Store and Google Play on your behalf.\n**Steps to Create an App**\n1. **Choose a Platform**:\n   - Decide whether to use a no-code app builder or a coding framework based on your technical skills and requirements.\n2. **Sign Up and Set Up**:\n   - Create an account on the chosen platform (e.g., AppMySite or Wix).\n   - Follow the guided steps to set up your app.\n3. **Customize Your App**:\n   - Select a name, icon, and theme.\n   - Add content and features that reflect your website's functionality.\n4. **Preview and Test**:\n   - Use the preview feature to test the app's appearance and functionality on mobile devices.\n5. **Publish Your App**:\n   - Create developer accounts for Google Play and Apple App Store.\n   - Submit your app for approval through the platform, which will handle the submission process.\n**Considerations**\n- **Type of App**:\n  - Decide between a native app (specific to iOS or Android) or a hybrid app (works on multiple platforms).\n- **User  Experience**:\n  - Ensure the app is user-friendly and maintains the look and feel of your website.\n- **Maintenance**:\n  - Choose a platform that offers automatic updates and easy maintenance to keep your app running smoothly.\nBy following these steps and utilizing the right tools, you can successfully create an app from your website.\n\nCitations:\n[1] https://www.reddit.com/r/webdev/comments/149f06y/how_do_you_turn_a_website_into_an_app_for_iphone/\n[2] https://www.reddit.com/r/productivity/comments/v13qlk/did_you_know_you_can_turn_any_browser_tabwebsite/\n[3] https://www.reddit.com/r/androidapps/comments/3hlelo/easiest_way_to_create_an_app_that_is_simply_my/",
+      "timestamp": {
+        "low": 1742711492,
+        "high": 0,
+        "unsigned": true
+      }
+    },
+    "DEB038548C256669488B398F4C00B970": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".gitclone https://github.com/kingmalvn/",
+      "timestamp": 1742713436
+    },
+    "3EB0CAECE283CFE4AD5F38": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "*Invalid GitHub link format. Please double-check the provided link.*",
+      "timestamp": {
+        "low": 1742713438,
+        "high": 0,
+        "unsigned": true
+      }
+    },
+    "807AB271842BA32A263547BCE19C2D41": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".menu",
+      "timestamp": 1742713858
+    },
+    "3EB024D8989CDFCE32E859": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "ʟᴏᴀᴅɪɴɢ ʜᴀʙᴀᴇᴋ-V1.0.0...",
+      "timestamp": {
+        "low": 1742713859,
+        "high": 0,
+        "unsigned": true
+      }
+    },
+    "3EB05B71919217CF0DC134": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "╭┉╾♰ ◈ *HABAEK-V1.0.0* ♔‌\n┊ *ᴏᴡɴᴇʀ* : ♰♔‌ʟᴏʀᴅ ʜᴀʙᴀᴇᴋ♔‌♰\n┇ *ᴘʀᴇғɪx* : [ . ]\n┇ *ʜᴏsᴛ* : linux\n┇ *ᴘʟᴜɢɪɴs* : 261\n┇ *ᴍᴏᴅᴇ* : Public\n┇ *ᴠᴇʀsɪᴏɴ* : 1.0.0\n┇ *sᴘᴇᴇᴅ* : 185.0318 ms\n┇ *ᴜsᴀɢᴇ* : 68 MB of 126 GB\n┇ *ʀᴀᴍ:* [█████████░] 94%\n╰┉┉┉♰ \n‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎\n╭┉╾♰ ♔‌  *AI MENU* ◈\n┊☠️ habaek\n┊☠️ dalle\n┊☠️ habaek\n┊☠️ generate\n┊☠️ dbrx\n┊☠️ deepseek\n┊☠️ deepseekllm\n┊☠️ doppleai\n┊☠️ gpt\n┊☠️ gpt2\n┊☠️ imagen\n┊☠️ imagine\n┊☠️ letterai\n┊☠️ llama\n┊☠️ metaai\n┊☠️ mistral\n┊☠️ photoai\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *AUDIO MENU* ◈\n┊☠️ bass\n┊☠️ blown\n┊☠️ deep\n┊☠️ earrape\n┊☠️ reverse\n┊☠️ robot\n┊☠️ volaudio\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *DOWNLOAD MENU* ◈\n┊☠️ apk\n┊☠️ download\n┊☠️ facebook\n┊☠️ gdrive\n┊☠️ gitclone\n┊☠️ image\n┊☠️ instagram\n┊☠️ itunes\n┊☠️ mediafire\n┊☠️ pinterest\n┊☠️ play\n┊☠️ playdoc\n┊☠️ ringtone\n┊☠️ savestatus\n┊☠️ tiktok\n┊☠️ tiktokaudio\n┊☠️ video\n┊☠️ videodoc\n┊☠️ videodoc\n┊☠️ xvideos\n┊☠️ ytmp3\n┊☠️ ytmp3doc\n┊☠️ ytmp4\n┊☠️ ytmp4doc\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *EPHOTO360 MENU* ◈\n┊☠️ 1917style\n┊☠️ advancedglow\n┊☠️ blackpinklogo\n┊☠️ blackpinkstyle\n┊☠️ cartoonstyle\n┊☠️ deadpool\n┊☠️ deletingtext\n┊☠️ dragonball\n┊☠️ effectclouds\n┊☠️ flag3dtext\n┊☠️ flagtext\n┊☠️ freecreate\n┊☠️ galaxystyle\n┊☠️ galaxywallpaper\n┊☠️ glitchtext\n┊☠️ glowingtext\n┊☠️ gradienttext\n┊☠️ graffiti\n┊☠️ incandescent\n┊☠️ lighteffects\n┊☠️ logomaker\n┊☠️ luxurygold\n┊☠️ makingneon\n┊☠️ matrix\n┊☠️ multicoloredneon\n┊☠️ neonglitch\n┊☠️ papercutstyle\n┊☠️ pixelglitch\n┊☠️ royaltext\n┊☠️ sand\n┊☠️ summerbeach\n┊☠️ topography\n┊☠️ typography\n┊☠️ watercolortext\n┊☠️ writetext\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *FUN MENU* ◈\n┊☠️ dare\n┊☠️ fact\n┊☠️ jokes\n┊☠️ memes\n┊☠️ quotes\n┊☠️ trivia\n┊☠️ truth\n┊☠️ truthdetector\n┊☠️ xxqc\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *GROUP MENU* ◈\n┊☠️ add\n┊☠️ antibadword\n┊☠️ antibot\n┊☠️ antilink\n┊☠️ antilinkgc\n┊☠️ approveall\n┊☠️ close\n┊☠️ closetime\n┊☠️ delppgroup\n┊☠️ demote\n┊☠️ disapproveall\n┊☠️ editsettings\n┊☠️ link\n┊☠️ hidetag\n┊☠️ invite\n┊☠️ kick\n┊☠️ listonline\n┊☠️ listrequests\n┊☠️ mediatag\n┊☠️ open\n┊☠️ opentime\n┊☠️ poll\n┊☠️ promote\n┊☠️ resetlink\n┊☠️ setdesc\n┊☠️ setgroupname\n┊☠️ setppgroup\n┊☠️ tagadmin\n┊☠️ tagall\n┊☠️ totalmembers\n┊☠️ userid\n┊☠️ vcf\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *HEROKU MENU* ◈\n┊☠️ addvar\n┊☠️ delvar\n┊☠️ getvar\n┊☠️ setbotname\n┊☠️ setname\n┊☠️ setownernumber\n┊☠️ setvar\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *IMAGE MENU* ◈\n┊☠️ remini\n┊☠️ wallpaper\n┊☠️ wikimedia\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *OTHER MENU* ◈\n┊☠️ botstatus\n┊☠️ pair\n┊☠️ ping\n┊☠️ runtime\n┊☠️ repo\n┊☠️ time\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *OWNER MENU* ◈\n┊☠️ block\n┊☠️ delete\n┊☠️ deljunk\n┊☠️ disk\n┊☠️ dlvo\n┊☠️ gcaddprivacy\n┊☠️ getsession\n┊☠️ groupid\n┊☠️ hostip\n┊☠️ join\n┊☠️ lastseen\n┊☠️ leave\n┊☠️ listbadword\n┊☠️ listignorelist\n┊☠️ listsudo\n┊☠️ modestatus\n┊☠️ online\n┊☠️ owner\n┊☠️ ppprivacy\n┊☠️ react\n┊☠️ readreceipts\n┊☠️ reportbug\n┊☠️ request\n┊☠️ restart\n┊☠️ setbio\n┊☠️ setprofilepic\n┊☠️ toviewonce\n┊☠️ unblock\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *REACTION MENU* ◈\n┊☠️ 8ball\n┊☠️ avatar\n┊☠️ awoo\n┊☠️ bite\n┊☠️ blush\n┊☠️ bonk\n┊☠️ bully\n┊☠️ cringe\n┊☠️ cry\n┊☠️ cuddle\n┊☠️ dance\n┊☠️ feed\n┊☠️ foxgirl\n┊☠️ gecg\n┊☠️ glomp\n┊☠️ goose\n┊☠️ handhold\n┊☠️ happy\n┊☠️ highfive\n┊☠️ hug\n┊☠️ kill\n┊☠️ kiss\n┊☠️ lick\n┊☠️ lizard\n┊☠️ meow\n┊☠️ nom\n┊☠️ pat\n┊☠️ poke\n┊☠️ shinobu\n┊☠️ slap\n┊☠️ smile\n┊☠️ smug\n┊☠️ spank\n┊☠️ tickle\n┊☠️ wave\n┊☠️ wink\n┊☠️ woof\n┊☠️ yeet\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *RELIGION MENU* ◈\n┊☠️ bible\n┊☠️ quran\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *SEARCH MENU* ◈\n┊☠️ define\n┊☠️ define2\n┊☠️ imdb\n┊☠️ lyrics\n┊☠️ shazam\n┊☠️ weather\n┊☠️ yts\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *SETTINGS MENU* ◈\n┊☠️ addbadword\n┊☠️ addignorelist\n┊☠️ addsudo\n┊☠️ alwaysonline\n┊☠️ anticall\n┊☠️ antidelete\n┊☠️ antiedit\n┊☠️ autobio\n┊☠️ autoreactstatus\n┊☠️ autoviewstatus\n┊☠️ autoreact\n┊☠️ autoread\n┊☠️ autotype\n┊☠️ autorecord\n┊☠️ autorecordtyping\n┊☠️ chatbot\n┊☠️ deletebadword\n┊☠️ delignorelist\n┊☠️ delsudo\n┊☠️ mode\n┊☠️ setmenu\n┊☠️ setprefix\n┊☠️ setstatusemoji\n┊☠️ welcome\n┊☠️ getsettings\n┊☠️ resetsetting\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *TOOLS MENU* ◈\n┊☠️ browse\n┊☠️ calculate\n┊☠️ emojimix\n┊☠️ fliptext\n┊☠️ gsmarena\n┊☠️ genpass\n┊☠️ device\n┊☠️ obfuscate\n┊☠️ qrcode\n┊☠️ say\n┊☠️ ssweb\n┊☠️ sswebpc\n┊☠️ sswebtab\n┊☠️ sticker\n┊☠️ fancy\n┊☠️ take\n┊☠️ tinyurl\n┊☠️ toimage\n┊☠️ tourl\n┊☠️ translate\n┊☠️ vcc\n╰┉┉┉♰ \n\n╭┉╾♰ ♔‌  *VIDEO MENU* ◈\n┊☠️ volvideo\n╰┉┉┉♰ \n\n",
+      "timestamp": {
+        "low": 1742713860,
+        "high": 0,
+        "unsigned": true
+      }
+    },
+    "BA3A7F56B61ABAD531F1B2244FDF495D": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".repo",
+      "timestamp": 1742713964
+    },
+    "3EB0A42B03760EFBA2B20A": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "*🔹 ᴊɪɴᴡᴏᴏ ʙᴏᴛ ʀᴇᴘᴏ 🔹*\n\n        \n\n🤖 *ɴᴀᴍᴇ:* Jinwoo-bot\n\n🌟 *sᴛᴀʀs:* 102\n\n👥 *ᴅᴀɪʟʏ ᴜsʀʀs:* 314\n\n🔎 *ʙᴏᴛ ʟɪɴᴋ:* https://tinyurl.com/2ycs6xve\n\n@263712473551👋, Don't forget to star and fork my repository!",
+      "timestamp": {
+        "low": 1742713966,
+        "high": 0,
+        "unsigned": true
+      }
+    },
+    "6CC92A0F884C8F2247D31A361917A936": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".imagine a silver cross necklace written the name \"LORD HABAEK\" in the sides",
+      "timestamp": 1742714742
+    },
+    "AE0BF9A9E195650D69BFEE9D977A4004": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".imagine a silver cross necklace written the name \"LORD HABAEK\" in the sides",
+      "timestamp": 1742714801
+    },
+    "0CDA8E447564C3D4815C69B82AFD865E": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".imagine a silver cross necklace written the name \"HABAEK\" in the sides",
+      "timestamp": 1742714909
+    },
+    "64EB13D8F080FA3A7DEAEB3FC36F54B2": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".imagine a silver cross necklace written the name \"HAB AEK\" in the sides",
+      "timestamp": 1742718046
+    },
+    "86D3C2DA9C28D0BD5DFEE079B95C2C5C": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".play rise and lead by Saint Floew",
+      "timestamp": 1742721872
+    },
+    "30D63817946B8DDEC27B5488E0952E53": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".toviewonce",
+      "timestamp": 1742726887
+    },
+    "0AF406C5320C036B878A1DB1ABB62384": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".habaek what is a warden",
+      "timestamp": 1742726919
+    },
+    "3EB0ACF0AA9159288B8D70": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "A \"warden\" can refer to several roles or positions depending on the context:\n\n1. **Prison Warden**: In the context of corrections, a warden is the official in charge of a prison or correctional facility. They are responsible for the management of the institution, overseeing staff, ensuring the safety and security of inmates, and maintaining order within the facility.\n\n2. **School Warden**: In some educational institutions, a warden may refer to a person responsible for the welfare and discipline of students, particularly in boarding schools or colleges.\n\n3. **Wildlife Warden**: In environmental contexts, a warden may be responsible for the protection of wildlife and natural resources, enforcing laws related to conservation and hunting.\n\n4. **General Use**: The term can also be used more broadly to describe someone who is responsible for a specific area or duty, such as a caretaker or guardian.\n\nThe specific duties and responsibilities of a warden can vary widely based on the setting in which they operate.",
+      "timestamp": {
+        "low": 1742726927,
+        "high": 0,
+        "unsigned": true
+      }
+    },
+    "07C789BE9C07647D93FC35ABA5112988": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".habaek tell me which prison has the most deadly people in the world",
+      "timestamp": 1742730102
+    },
+    "3EB0B73114B521BA2DA1DF": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "\nSome of the most dangerous prisons in the world include ADX Florence in the U.S., known for housing high-profile terrorists and violent offenders, and Megiddo Prison in Israel, which is dedicated to security offenders. Additionally, prisons in Alabama have been noted for high homicide rates among inmates. **Most Dangerous Prisons in the World**\n- **ADX Florence, USA**\n  - Known as the \"Alcatraz of the Rockies.\"\n  - Houses some of the most dangerous criminals, including terrorists and organized crime leaders.\n  - Inmates spend 23 hours a day in solitary confinement, leading to severe psychological effects.\n- **Ciudad Barrios Prison, El Salvador**\n  - Infamous for being controlled by the MS-13 gang.\n  - Overcrowded and characterized by extreme violence and lawlessness.\n  - Inmates live in constant fear due to gang rivalries and extortion.\n- **Bang Kwang Central Prison, Thailand**\n  - Houses many dangerous criminals, including death row inmates.\n  - Known for severe overcrowding and harsh treatment of inmates.\n  - Reports of physical abuse and torture by guards are common.\n- **Black Dolphin Prison, Russia**\n  - Known for its strict regime and housing some of Russia's most dangerous criminals, including serial killers and terrorists.\n  - Inmates are kept under constant surveillance and often face severe isolation.\n- **Butyrka Prison, Russia**\n  - One of the oldest and most overcrowded prisons in Russia.\n  - Known for its brutal treatment of inmates and high levels of violence.\nThese prisons are notorious for their harsh conditions and the dangerous individuals they house, making them some of the most feared facilities globally.\n\nCitations:\n[1] https://internationalsecurityjournal.com/worst-prisons-in-the-world/\n[2] https://internationalsecurityjournal.com/worst-prisons-in-the-world/#20_HM_Prison_Belmarsh_UK\n[3] https://internationalsecurityjournal.com/worst-prisons-in-the-world/#17_La_Sante_Prison_France",
+      "timestamp": {
+        "low": 1742730121,
+        "high": 0,
+        "unsigned": true
+      }
+    },
+    "3DEE0E1F8A407E11D0195A634A7BB038": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".habaek tell me which prison is the most secured prison in the world",
+      "timestamp": 1742730148
+    },
+    "3EB0AE3DFA8B7DDF8CD71C": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": "\nThe most secure prison in the world is widely considered to be ADX Florence, located in Colorado, USA. It is designed for maximum security, housing some of the most dangerous criminals in near-total solitary confinement. **Key Features of ADX Florence**\n- **Location and Structure**\n  - Situated in Florence, Colorado, covering 37 acres.\n  - Part of the Federal Correctional Complex (FCC) Florence, which includes three facilities with varying security levels.\n- **Inmate Management**\n  - Houses approximately 344 inmates, confined for 23 hours a day in single cells.\n  - Cells are constructed from poured, reinforced concrete to prevent self-harm and escape.\n- **Security Measures**\n  - 24-hour supervision with a high staff-to-inmate ratio.\n  - Nine housing units surrounded by secure fencing.\n  - Soundproof cells to eliminate contact between inmates.\n  - Small windows in cells prevent inmates from gauging their surroundings.\n- **Visitation Policies**\n  - Inmates can have a maximum of 20 approved visitors, with strict security checks for visitors.\n  - Only three visitors allowed at a time, including children.\n**Comparison with Other Secure Prisons**\n- **Black Dolphin Prison (Russia)**\n  - Known for housing violent criminals with extreme isolation and armed guards.\n- **Tadmor Prison (Syria)**\n  - Infamous for brutal conditions and isolation, making escape nearly impossible.\n- **Bang Kwang Central Prison (Thailand)**\n  - Features strict security measures, including leg irons and constant surveillance.\n- **Guantanamo Bay Detention Camp (Cuba)**\n  - Highly secure military prison with stringent measures and constant monitoring.\n**Conclusion**\nADX Florence stands out as the most secure prison globally due to its advanced security features, strict inmate management, and isolation practices, making escape virtually impossible for its inmates.\n\nCitations:\n[1] https://internationalsecurityjournal.com/worst-prisons-in-the-world/\n[2] https://internationalsecurityjournal.com/worst-prisons-in-the-world/#20_HM_Prison_Belmarsh_UK\n[3] https://internationalsecurityjournal.com/worst-prisons-in-the-world/#17_La_Sante_Prison_France",
+      "timestamp": {
+        "low": 1742730165,
+        "high": 0,
+        "unsigned": true
+      }
+    },
+    "8824C1E32BF55D0D1230B15622853A31": {
+      "sender": "263712473551@s.whatsapp.net",
+      "text": ".gitclone https://github.com/Fenixid-server/FENIXID-A7?tab=readme-ov-file",
+      "timestamp": 1742732531
+    }
+  },
+  "263777461443:12@s.whatsapp.net": {
+    "3EB059D1A8622FC56C3968": {
+      "sender": "263777461443:12@s.whatsapp.net",
+      "text": "┏━━─『 ?HABAEK-V1x20』─━━\n┃ » Username: ♰♔‌ʟᴏʀᴅ ʜᴀʙᴀᴇᴋ♔‌♰\n┃ » Platform: linux\n┃ » Prefix: [ . ]\n┃ » Mode: Public\n┃ » Version: [ 1.0.0 ]\n┗━━━━━━━━━━━━─··· \n\n┏━━─『 UPDATES 』─━━\n┃  ⚠️ Failed to check for updates.\n┗━━━━━━━━━━━━─···",
+      "timestamp": {
+        "low": 1742727239,
+        "high": 0,
+        "unsigned": true
+      }
+    }
+  }
+}
