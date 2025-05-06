@@ -71,10 +71,9 @@ Click the button below to fork the Luna Bot repository to your GitHub account:
 <details>
 <summary>𝘋𝘌𝘗𝘓𝘖𝘠 𝘛𝘖 𝘏𝘌𝘙𝘖𝘒𝘜, 𝘔𝘌𝘛𝘏𝘖𝘋 2</summary>
  
-* `Fork` JINWOO Repository or `sync` if you had forked.
+* `Fork` LUNA Repository or `sync` if you had forked.
 * `Link` to your WhatsApp using Server 1, 2 or 3
-* Incase you use Server 2, paste the session id on settings.js @SESSION_ID
-* If you used Server 3, upload the `creds.json` received in the `session` folder.
+* upload the `creds.json` received in the `session` folder.
 * Alternatively; you can open the `creds.json` using `Mt manager` or `treb edit` and copy everything and paste at `creds.json` on the `session` folder.
 * Go to `src>data>role>owner.json` and enter your number.
 * Edit your details at `settings.js` (Optional).
